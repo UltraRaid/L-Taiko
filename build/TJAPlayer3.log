@@ -2,136 +2,136 @@
 DTXMania powered by YAMAHA Silent Session Drums
 Release: 1.0.0.0
 
-2025/02/22 04:53:49.475 [INFO] ----------------------
-2025/02/22 04:53:49.477 [INFO] ■ アプリケーションの初期化
-2025/02/22 04:53:49.477 [INFO] OS Version: Microsoft Windows NT 10.0.26120.0
-2025/02/22 04:53:49.477 [INFO] ProcessorCount: 16
-2025/02/22 04:53:49.478 [INFO] CLR Version: 7.0.0
-2025/02/22 04:53:49.478 [INFO] スキンの初期化を行います。
-2025/02/22 04:53:49.495 [INFO]     SkinPath検出: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\Moshir's OpenTaiko Skin\
-2025/02/22 04:53:49.495 [INFO]     SkinPath検出: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\
-2025/02/22 04:53:49.495 [INFO]     SkinPath入力: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\
-2025/02/22 04:53:49.498 [INFO]     SkinPath設定: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\
-2025/02/22 04:53:49.498 [INFO]     システムサウンドを読み込みました。(Sounds\Move.wav)
-2025/02/22 04:53:49.498 [INFO]     システムサウンドを読み込みました。(Sounds\Decide.wav)
-2025/02/22 04:53:49.499 [INFO]     システムサウンドを読み込みました。(Sounds\Change.wav)
-2025/02/22 04:53:49.499 [INFO]     システムサウンドを読み込みました。(Sounds\Cancel.wav)
-2025/02/22 04:53:49.499 [WARNING]     ファイルが存在しません。: Sounds\Audience.ogg
-2025/02/22 04:53:49.499 [INFO]     システムサウンドを読み込みました。(Sounds\Audience.ogg)
-2025/02/22 04:53:49.499 [WARNING]     ファイルが存在しません。: Sounds\Game start.ogg
-2025/02/22 04:53:49.499 [INFO]     システムサウンドを読み込みました。(Sounds\Game start.ogg)
-2025/02/22 04:53:49.499 [WARNING]     ファイルが存在しません。: Sounds\Full combo.ogg
-2025/02/22 04:53:49.499 [INFO]     システムサウンドを読み込みました。(Sounds\Full combo.ogg)
-2025/02/22 04:53:49.499 [INFO]     システムサウンドを読み込みました。(Sounds\BGM\Title.ogg)
-2025/02/22 04:53:49.499 [INFO]     システムサウンドを読み込みました。(Sounds\BGM\SongSelect.ogg)
-2025/02/22 04:53:49.499 [INFO]     システムサウンドを読み込みました。(Sounds\balloon.wav)
-2025/02/22 04:53:49.499 [INFO]     システムサウンドを読み込みました。(Sounds\SongDecide.wav)
-2025/02/22 04:53:49.499 [INFO]     システムサウンドを読み込みました。(Sounds\BGM\Result_In.ogg)
-2025/02/22 04:53:49.499 [WARNING]     ファイルが存在しません。: Sounds\Resume.ogg
-2025/02/22 04:53:49.499 [INFO]     システムサウンドを読み込みました。(Sounds\Resume.ogg)
-2025/02/22 04:53:49.499 [WARNING]     ファイルが存在しません。: Sounds\Pause.ogg
-2025/02/22 04:53:49.499 [INFO]     システムサウンドを読み込みました。(Sounds\Pause.ogg)
-2025/02/22 04:53:49.500 [WARNING]     ファイルが存在しません。: Sounds\Scroll.ogg
-2025/02/22 04:53:49.500 [INFO]     システムサウンドを読み込みました。(Sounds\Scroll.ogg)
-2025/02/22 04:53:49.500 [WARNING]     ファイルが存在しません。: Sounds\Jump Point.ogg
-2025/02/22 04:53:49.500 [INFO]     システムサウンドを読み込みました。(Sounds\Jump Point.ogg)
-2025/02/22 04:53:49.500 [INFO]     システムサウンドを読み込みました。(Sounds\Traning Skip.ogg)
-2025/02/22 04:53:49.629 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
+2025/02/22 04:56:31.775 [INFO] ----------------------
+2025/02/22 04:56:31.778 [INFO] ■ アプリケーションの初期化
+2025/02/22 04:56:31.778 [INFO] OS Version: Microsoft Windows NT 10.0.26120.0
+2025/02/22 04:56:31.778 [INFO] ProcessorCount: 16
+2025/02/22 04:56:31.778 [INFO] CLR Version: 7.0.0
+2025/02/22 04:56:31.779 [INFO] スキンの初期化を行います。
+2025/02/22 04:56:31.797 [INFO]     SkinPath検出: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\Moshir's OpenTaiko Skin\
+2025/02/22 04:56:31.797 [INFO]     SkinPath検出: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\
+2025/02/22 04:56:31.797 [INFO]     SkinPath入力: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\
+2025/02/22 04:56:31.799 [INFO]     SkinPath設定: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\
+2025/02/22 04:56:31.800 [INFO]     システムサウンドを読み込みました。(Sounds\Move.wav)
+2025/02/22 04:56:31.800 [INFO]     システムサウンドを読み込みました。(Sounds\Decide.wav)
+2025/02/22 04:56:31.800 [INFO]     システムサウンドを読み込みました。(Sounds\Change.wav)
+2025/02/22 04:56:31.800 [INFO]     システムサウンドを読み込みました。(Sounds\Cancel.wav)
+2025/02/22 04:56:31.800 [WARNING]     ファイルが存在しません。: Sounds\Audience.ogg
+2025/02/22 04:56:31.800 [INFO]     システムサウンドを読み込みました。(Sounds\Audience.ogg)
+2025/02/22 04:56:31.801 [WARNING]     ファイルが存在しません。: Sounds\Game start.ogg
+2025/02/22 04:56:31.801 [INFO]     システムサウンドを読み込みました。(Sounds\Game start.ogg)
+2025/02/22 04:56:31.801 [WARNING]     ファイルが存在しません。: Sounds\Full combo.ogg
+2025/02/22 04:56:31.801 [INFO]     システムサウンドを読み込みました。(Sounds\Full combo.ogg)
+2025/02/22 04:56:31.801 [INFO]     システムサウンドを読み込みました。(Sounds\BGM\Title.ogg)
+2025/02/22 04:56:31.801 [INFO]     システムサウンドを読み込みました。(Sounds\BGM\SongSelect.ogg)
+2025/02/22 04:56:31.801 [INFO]     システムサウンドを読み込みました。(Sounds\balloon.wav)
+2025/02/22 04:56:31.801 [INFO]     システムサウンドを読み込みました。(Sounds\SongDecide.wav)
+2025/02/22 04:56:31.801 [INFO]     システムサウンドを読み込みました。(Sounds\BGM\Result_In.ogg)
+2025/02/22 04:56:31.801 [WARNING]     ファイルが存在しません。: Sounds\Resume.ogg
+2025/02/22 04:56:31.801 [INFO]     システムサウンドを読み込みました。(Sounds\Resume.ogg)
+2025/02/22 04:56:31.801 [WARNING]     ファイルが存在しません。: Sounds\Pause.ogg
+2025/02/22 04:56:31.801 [INFO]     システムサウンドを読み込みました。(Sounds\Pause.ogg)
+2025/02/22 04:56:31.801 [WARNING]     ファイルが存在しません。: Sounds\Scroll.ogg
+2025/02/22 04:56:31.801 [INFO]     システムサウンドを読み込みました。(Sounds\Scroll.ogg)
+2025/02/22 04:56:31.801 [WARNING]     ファイルが存在しません。: Sounds\Jump Point.ogg
+2025/02/22 04:56:31.801 [INFO]     システムサウンドを読み込みました。(Sounds\Jump Point.ogg)
+2025/02/22 04:56:31.801 [INFO]     システムサウンドを読み込みました。(Sounds\Traning Skip.ogg)
+2025/02/22 04:56:31.923 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
    at TJAPlayer3.CSkin.t文字列から読み込み(String strAllSettings) in C:\Users\kirei\Documents\GitHub\L-Taiko\src\OpenTaiko\src\Common\CSkin.cs:line 3855
-2025/02/22 04:53:49.629 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
-2025/02/22 04:53:49.631 [ERROR]     System.FormatException: The input string '485 ;2桁のとき' was not in a correct format.
+2025/02/22 04:56:31.923 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
+2025/02/22 04:56:31.924 [ERROR]     System.FormatException: The input string '485 ;2桁のとき' was not in a correct format.
    at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, ReadOnlySpan`1 value, TypeCode type)
    at System.Int32.Parse(String s)
    at TJAPlayer3.CSkin.t文字列から読み込み(String strAllSettings) in C:\Users\kirei\Documents\GitHub\L-Taiko\src\OpenTaiko\src\Common\CSkin.cs:line 5701
-2025/02/22 04:53:49.631 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
-2025/02/22 04:53:49.632 [ERROR]     System.FormatException: The input string '449　;3桁のとき' was not in a correct format.
+2025/02/22 04:56:31.924 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
+2025/02/22 04:56:31.924 [ERROR]     System.FormatException: The input string '449　;3桁のとき' was not in a correct format.
    at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, ReadOnlySpan`1 value, TypeCode type)
    at System.Int32.Parse(String s)
    at TJAPlayer3.CSkin.t文字列から読み込み(String strAllSettings) in C:\Users\kirei\Documents\GitHub\L-Taiko\src\OpenTaiko\src\Common\CSkin.cs:line 5719
-2025/02/22 04:53:49.632 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
-2025/02/22 04:53:49.632 [ERROR]     System.FormatException: The input string '449 ;4桁のとき' was not in a correct format.
+2025/02/22 04:56:31.924 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
+2025/02/22 04:56:31.925 [ERROR]     System.FormatException: The input string '449 ;4桁のとき' was not in a correct format.
    at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, ReadOnlySpan`1 value, TypeCode type)
    at System.Int32.Parse(String s)
    at TJAPlayer3.CSkin.t文字列から読み込み(String strAllSettings) in C:\Users\kirei\Documents\GitHub\L-Taiko\src\OpenTaiko\src\Common\CSkin.cs:line 5737
-2025/02/22 04:53:49.632 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
-2025/02/22 04:53:49.635 [ERROR]     System.FormatException: The input string '0.92f' was not in a correct format.
+2025/02/22 04:56:31.925 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
+2025/02/22 04:56:31.926 [ERROR]     System.FormatException: The input string '0.92f' was not in a correct format.
    at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, ReadOnlySpan`1 value, TypeCode type)
    at System.Single.Parse(String s)
    at TJAPlayer3.CSkin.t文字列から読み込み(String strAllSettings) in C:\Users\kirei\Documents\GitHub\L-Taiko\src\OpenTaiko\src\Common\CSkin.cs:line 6467
-2025/02/22 04:53:49.635 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
-2025/02/22 04:53:49.635 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
+2025/02/22 04:56:31.926 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
+2025/02/22 04:56:31.927 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
    at TJAPlayer3.CSkin.t文字列から読み込み(String strAllSettings) in C:\Users\kirei\Documents\GitHub\L-Taiko\src\OpenTaiko\src\Common\CSkin.cs:line 7069
-2025/02/22 04:53:49.635 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
-2025/02/22 04:53:49.636 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
+2025/02/22 04:56:31.927 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
+2025/02/22 04:56:31.927 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
    at TJAPlayer3.CSkin.t文字列から読み込み(String strAllSettings) in C:\Users\kirei\Documents\GitHub\L-Taiko\src\OpenTaiko\src\Common\CSkin.cs:line 7079
-2025/02/22 04:53:49.636 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
-2025/02/22 04:53:49.636 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
+2025/02/22 04:56:31.927 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
+2025/02/22 04:56:31.928 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
    at TJAPlayer3.CSkin.t文字列から読み込み(String strAllSettings) in C:\Users\kirei\Documents\GitHub\L-Taiko\src\OpenTaiko\src\Common\CSkin.cs:line 7089
-2025/02/22 04:53:49.636 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
-2025/02/22 04:53:49.636 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
+2025/02/22 04:56:31.928 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
+2025/02/22 04:56:31.928 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
    at TJAPlayer3.CSkin.t文字列から読み込み(String strAllSettings) in C:\Users\kirei\Documents\GitHub\L-Taiko\src\OpenTaiko\src\Common\CSkin.cs:line 7099
-2025/02/22 04:53:49.636 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
-2025/02/22 04:53:49.637 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
+2025/02/22 04:56:31.928 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
+2025/02/22 04:56:31.929 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
    at TJAPlayer3.CSkin.t文字列から読み込み(String strAllSettings) in C:\Users\kirei\Documents\GitHub\L-Taiko\src\OpenTaiko\src\Common\CSkin.cs:line 7109
-2025/02/22 04:53:49.637 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
-2025/02/22 04:53:49.637 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
+2025/02/22 04:56:31.929 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
+2025/02/22 04:56:31.929 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
    at TJAPlayer3.CSkin.t文字列から読み込み(String strAllSettings) in C:\Users\kirei\Documents\GitHub\L-Taiko\src\OpenTaiko\src\Common\CSkin.cs:line 7249
-2025/02/22 04:53:49.637 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
-2025/02/22 04:53:49.638 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
+2025/02/22 04:56:31.929 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
+2025/02/22 04:56:31.929 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
    at TJAPlayer3.CSkin.t文字列から読み込み(String strAllSettings) in C:\Users\kirei\Documents\GitHub\L-Taiko\src\OpenTaiko\src\Common\CSkin.cs:line 7458
-2025/02/22 04:53:49.638 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
-2025/02/22 04:53:49.638 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
+2025/02/22 04:56:31.929 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
+2025/02/22 04:56:31.930 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
    at TJAPlayer3.CSkin.t文字列から読み込み(String strAllSettings) in C:\Users\kirei\Documents\GitHub\L-Taiko\src\OpenTaiko\src\Common\CSkin.cs:line 7740
-2025/02/22 04:53:49.638 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
-2025/02/22 04:53:49.638 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
+2025/02/22 04:56:31.930 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
+2025/02/22 04:56:31.930 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
    at TJAPlayer3.CSkin.t文字列から読み込み(String strAllSettings) in C:\Users\kirei\Documents\GitHub\L-Taiko\src\OpenTaiko\src\Common\CSkin.cs:line 7750
-2025/02/22 04:53:49.638 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
-2025/02/22 04:53:49.639 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
+2025/02/22 04:56:31.930 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
+2025/02/22 04:56:31.931 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
    at TJAPlayer3.CSkin.t文字列から読み込み(String strAllSettings) in C:\Users\kirei\Documents\GitHub\L-Taiko\src\OpenTaiko\src\Common\CSkin.cs:line 7760
-2025/02/22 04:53:49.639 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
-2025/02/22 04:53:49.639 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
+2025/02/22 04:56:31.931 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
+2025/02/22 04:56:31.931 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
    at TJAPlayer3.CSkin.t文字列から読み込み(String strAllSettings) in C:\Users\kirei\Documents\GitHub\L-Taiko\src\OpenTaiko\src\Common\CSkin.cs:line 7770
-2025/02/22 04:53:49.639 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
-2025/02/22 04:53:49.640 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
+2025/02/22 04:56:31.931 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
+2025/02/22 04:56:31.932 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
    at TJAPlayer3.CSkin.t文字列から読み込み(String strAllSettings) in C:\Users\kirei\Documents\GitHub\L-Taiko\src\OpenTaiko\src\Common\CSkin.cs:line 8682
-2025/02/22 04:53:49.640 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
-2025/02/22 04:53:49.643 [INFO]     スキンの初期化を完了しました。
-2025/02/22 04:53:49.656 [INFO]     タイマの初期化を行います。
-2025/02/22 04:53:49.657 [INFO]         タイマの初期化を完了しました。
-2025/02/22 04:53:49.657 [INFO]     FPSカウンタの初期化を行います。
-2025/02/22 04:53:49.657 [INFO]         FPSカウンタを生成しました。
-2025/02/22 04:53:49.657 [INFO]     文字コンソールの初期化を行います。
-2025/02/22 04:53:49.657 [INFO]         文字コンソールを生成しました。
-2025/02/22 04:53:49.679 [INFO]         文字コンソールを活性化しました。
-2025/02/22 04:53:49.679 [INFO]         文字コンソールの初期化を完了しました。
-2025/02/22 04:53:49.679 [INFO]     DirectInput, MIDI入力の初期化を行います。
-2025/02/22 04:53:49.695 [INFO]         Silk.NET Mouse (via GLFW) を生成しました。
-2025/02/22 04:53:49.697 [INFO]         DirectInput の初期化を完了しました。
-2025/02/22 04:53:49.697 [INFO]     パッドの初期化を行います。
-2025/02/22 04:53:49.697 [INFO]         パッドの初期化を完了しました。
-2025/02/22 04:53:49.697 [INFO]     サウンドデバイスの初期化を行います。
-2025/02/22 04:53:49.701 [INFO]         BASS (WASAPI) の初期化を開始します。
-2025/02/22 04:53:49.703 [INFO]         サウンドデバイス一覧:
-2025/02/22 04:53:49.709 [INFO]         Sound Device #0: No sound: IsDefault=False, isEnabled=True
-2025/02/22 04:53:49.709 [INFO]         Sound Device #1: Default: IsDefault=True, isEnabled=True
-2025/02/22 04:53:49.709 [INFO]         Sound Device #2: 2 - VG271 Z (AMD High Definition Audio Device): IsDefault=False, isEnabled=True
-2025/02/22 04:53:49.709 [INFO]         Sound Device #3: スピーカー (Realtek(R) Audio): IsDefault=False, isEnabled=True
-2025/02/22 04:53:49.709 [INFO]         Sound Device #4: スピーカー (Voice Changer Virtual Audio Device (WDM)): IsDefault=False, isEnabled=True
-2025/02/22 04:53:49.709 [INFO]         Sound Device #5: CABLE Input (VB-Audio Virtual Cable): IsDefault=False, isEnabled=True
-2025/02/22 04:53:49.709 [INFO]         Sound Device #6: VoiceMeeter Aux Input (VB-Audio VoiceMeeter AUX VAIO): IsDefault=False, isEnabled=True
-2025/02/22 04:53:49.709 [INFO]         Sound Device #7: VoiceMeeter Input (VB-Audio VoiceMeeter VAIO): IsDefault=False, isEnabled=True
-2025/02/22 04:53:49.709 [INFO]         Sound Device #8: ヘッドホン (Realtek(R) Audio): IsDefault=True, isEnabled=True
-2025/02/22 04:53:49.796 [INFO]         WASAPI Device #24: ヘッドホン (Realtek(R) Audio): IsDefault=True, defPeriod=0.010666700080037117s, minperiod=0.003000000026077032s, mixchans=2, mixfreq=48000
-2025/02/22 04:53:49.796 [INFO]         Start Bass_Init(device=0(fixed value: no sound), deviceInfo.mixfreq=48000, BASS_DEVICE_DEFAULT, Zero)
-2025/02/22 04:53:49.833 [INFO]         BASS を初期化しました。(WASAPI共有モード, 50ms, 更新間隔10.666700080037117ms)
-2025/02/22 04:53:49.838 [INFO]         BASS_CONFIG_UpdatePeriod=0
-2025/02/22 04:53:49.838 [INFO]         BASS_CONFIG_UpdateThreads=0
-2025/02/22 04:53:49.838 [INFO]         Initializing loudness scanning, song gain control, and sound group level control...
-2025/02/22 04:53:49.845 [INFO]             LoudnessMetadataScanner.StartBackgroundScanning: BS1770GAIN is not available. A background scanning thread will not be started.
-2025/02/22 04:53:49.851 [INFO]         Initialized loudness scanning, song gain control, and sound group level control.
-2025/02/22 04:53:49.852 [INFO]         サウンドデバイスの初期化を完了しました。
-2025/02/22 04:53:49.852 [INFO]     曲リストの初期化を行います。
-2025/02/22 04:53:49.854 [INFO]         曲リストの初期化を完了しました。
+2025/02/22 04:56:31.932 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
+2025/02/22 04:56:31.935 [INFO]     スキンの初期化を完了しました。
+2025/02/22 04:56:31.947 [INFO]     タイマの初期化を行います。
+2025/02/22 04:56:31.948 [INFO]         タイマの初期化を完了しました。
+2025/02/22 04:56:31.948 [INFO]     FPSカウンタの初期化を行います。
+2025/02/22 04:56:31.948 [INFO]         FPSカウンタを生成しました。
+2025/02/22 04:56:31.948 [INFO]     文字コンソールの初期化を行います。
+2025/02/22 04:56:31.948 [INFO]         文字コンソールを生成しました。
+2025/02/22 04:56:31.962 [INFO]         文字コンソールを活性化しました。
+2025/02/22 04:56:31.962 [INFO]         文字コンソールの初期化を完了しました。
+2025/02/22 04:56:31.962 [INFO]     DirectInput, MIDI入力の初期化を行います。
+2025/02/22 04:56:31.977 [INFO]         Silk.NET Mouse (via GLFW) を生成しました。
+2025/02/22 04:56:31.979 [INFO]         DirectInput の初期化を完了しました。
+2025/02/22 04:56:31.979 [INFO]     パッドの初期化を行います。
+2025/02/22 04:56:31.979 [INFO]         パッドの初期化を完了しました。
+2025/02/22 04:56:31.979 [INFO]     サウンドデバイスの初期化を行います。
+2025/02/22 04:56:31.982 [INFO]         BASS (WASAPI) の初期化を開始します。
+2025/02/22 04:56:31.984 [INFO]         サウンドデバイス一覧:
+2025/02/22 04:56:31.991 [INFO]         Sound Device #0: No sound: IsDefault=False, isEnabled=True
+2025/02/22 04:56:31.991 [INFO]         Sound Device #1: Default: IsDefault=True, isEnabled=True
+2025/02/22 04:56:31.991 [INFO]         Sound Device #2: 2 - VG271 Z (AMD High Definition Audio Device): IsDefault=False, isEnabled=True
+2025/02/22 04:56:31.991 [INFO]         Sound Device #3: スピーカー (Realtek(R) Audio): IsDefault=False, isEnabled=True
+2025/02/22 04:56:31.991 [INFO]         Sound Device #4: スピーカー (Voice Changer Virtual Audio Device (WDM)): IsDefault=False, isEnabled=True
+2025/02/22 04:56:31.991 [INFO]         Sound Device #5: CABLE Input (VB-Audio Virtual Cable): IsDefault=False, isEnabled=True
+2025/02/22 04:56:31.991 [INFO]         Sound Device #6: VoiceMeeter Aux Input (VB-Audio VoiceMeeter AUX VAIO): IsDefault=False, isEnabled=True
+2025/02/22 04:56:31.991 [INFO]         Sound Device #7: VoiceMeeter Input (VB-Audio VoiceMeeter VAIO): IsDefault=False, isEnabled=True
+2025/02/22 04:56:31.991 [INFO]         Sound Device #8: ヘッドホン (Realtek(R) Audio): IsDefault=True, isEnabled=True
+2025/02/22 04:56:32.087 [INFO]         WASAPI Device #24: ヘッドホン (Realtek(R) Audio): IsDefault=True, defPeriod=0.010666700080037117s, minperiod=0.003000000026077032s, mixchans=2, mixfreq=48000
+2025/02/22 04:56:32.087 [INFO]         Start Bass_Init(device=0(fixed value: no sound), deviceInfo.mixfreq=48000, BASS_DEVICE_DEFAULT, Zero)
+2025/02/22 04:56:32.128 [INFO]         BASS を初期化しました。(WASAPI共有モード, 50ms, 更新間隔10.666700080037117ms)
+2025/02/22 04:56:32.133 [INFO]         BASS_CONFIG_UpdatePeriod=0
+2025/02/22 04:56:32.133 [INFO]         BASS_CONFIG_UpdateThreads=0
+2025/02/22 04:56:32.133 [INFO]         Initializing loudness scanning, song gain control, and sound group level control...
+2025/02/22 04:56:32.140 [INFO]             LoudnessMetadataScanner.StartBackgroundScanning: BS1770GAIN is not available. A background scanning thread will not be started.
+2025/02/22 04:56:32.146 [INFO]         Initialized loudness scanning, song gain control, and sound group level control.
+2025/02/22 04:56:32.148 [INFO]         サウンドデバイスの初期化を完了しました。
+2025/02/22 04:56:32.148 [INFO]     曲リストの初期化を行います。
+2025/02/22 04:56:32.149 [INFO]         曲リストの初期化を完了しました。
 SORT MENU: Cacheにヒットせず。(cachesize=1)
 絶対パス: Cacheにヒットせず。(cachesize=2)
 曲名: Cacheにヒットせず。(cachesize=3)
@@ -159,294 +159,259 @@ UltraRaid_: Cacheにヒットせず。(cachesize=1)
 3P: Cacheにヒットせず。(cachesize=1)
 4P: Cacheにヒットせず。(cachesize=1)
 5P: Cacheにヒットせず。(cachesize=1)
-2025/02/22 04:53:49.982 [INFO]     プラグインの検索と生成を行います。
-2025/02/22 04:53:49.983 [WARNING]         The plugin folder does not exist. (C:\Users\kirei\Documents\GitHub\L-Taiko\build\Plugins\)
-2025/02/22 04:53:49.983 [INFO]         プラグインの検索と生成を完了しました。
-2025/02/22 04:53:49.990 [INFO]     アプリケーションの初期化を完了しました。
-2025/02/22 04:53:49.990 [INFO]     ----------------------
-2025/02/22 04:53:49.990 [INFO]     ■ 起動
-2025/02/22 04:53:49.990 [INFO]     起動ステージを活性化します。
-2025/02/22 04:53:49.993 [INFO]         起動ステージの活性化を完了しました。
-2025/02/22 04:53:50.023 [INFO]     0) システムサウンドを構築します。
-2025/02/22 04:53:50.023 [WARNING]     ファイルが存在しません。: Sounds\BGM\Setup.ogg
-2025/02/22 04:53:50.032 [INFO]     システムサウンドを読み込みました。(Sounds\Move.wav)
-2025/02/22 04:53:50.033 [INFO]     システムサウンドを読み込みました。(Sounds\Decide.wav)
-2025/02/22 04:53:50.033 [INFO]     システムサウンドを読み込みました。(Sounds\Change.wav)
-2025/02/22 04:53:50.034 [INFO]     システムサウンドを読み込みました。(Sounds\Cancel.wav)
-2025/02/22 04:53:50.034 [WARNING]     ファイルが存在しません。: Sounds\Audience.ogg
-2025/02/22 04:53:50.034 [INFO]     システムサウンドを読み込みました。(Sounds\Audience.ogg)
-2025/02/22 04:53:50.034 [WARNING]     ファイルが存在しません。: Sounds\Game start.ogg
-2025/02/22 04:53:50.034 [INFO]     システムサウンドを読み込みました。(Sounds\Game start.ogg)
-2025/02/22 04:53:50.034 [WARNING]     ファイルが存在しません。: Sounds\Full combo.ogg
-2025/02/22 04:53:50.035 [INFO]     システムサウンドを読み込みました。(Sounds\Full combo.ogg)
-2025/02/22 04:53:50.038 [INFO]     システムサウンドを読み込みました。(Sounds\BGM\Title.ogg)
-2025/02/22 04:53:50.040 [INFO]     システムサウンドを読み込みました。(Sounds\BGM\SongSelect.ogg)
-2025/02/22 04:53:50.041 [INFO]     システムサウンドを読み込みました。(Sounds\balloon.wav)
-2025/02/22 04:53:50.042 [INFO]     システムサウンドを読み込みました。(Sounds\SongDecide.wav)
-2025/02/22 04:53:50.044 [INFO]     システムサウンドを読み込みました。(Sounds\BGM\Result_In.ogg)
-2025/02/22 04:53:50.044 [WARNING]     ファイルが存在しません。: Sounds\Resume.ogg
-2025/02/22 04:53:50.044 [INFO]     システムサウンドを読み込みました。(Sounds\Resume.ogg)
-2025/02/22 04:53:50.044 [WARNING]     ファイルが存在しません。: Sounds\Pause.ogg
-2025/02/22 04:53:50.044 [INFO]     システムサウンドを読み込みました。(Sounds\Pause.ogg)
-2025/02/22 04:53:50.044 [WARNING]     ファイルが存在しません。: Sounds\Scroll.ogg
-2025/02/22 04:53:50.044 [INFO]     システムサウンドを読み込みました。(Sounds\Scroll.ogg)
-2025/02/22 04:53:50.044 [WARNING]     ファイルが存在しません。: Sounds\Jump Point.ogg
-2025/02/22 04:53:50.044 [INFO]     システムサウンドを読み込みました。(Sounds\Jump Point.ogg)
-2025/02/22 04:53:50.046 [INFO]     システムサウンドを読み込みました。(Sounds\Traning Skip.ogg)
-2025/02/22 04:53:50.046 [INFO] 起動所要時間: 00:00:00.0235890
-2025/02/22 04:53:50.180 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\Overlay.png)
-2025/02/22 04:53:50.248 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\1P_NamePlate.png)
-2025/02/22 04:53:50.248 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\2P_NamePlate.png)
-2025/02/22 04:53:50.271 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\9_NamePlateEffect\Title\0\Big.png)
-2025/02/22 04:53:50.271 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\9_NamePlateEffect\Title\0\Small.png)
-2025/02/22 04:53:50.271 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\9_NamePlateEffect\Title\0\Tiny.png)
-2025/02/22 04:53:50.566 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\9_NamePlateEffect\Title\3\Big.png)
-2025/02/22 04:53:50.566 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\9_NamePlateEffect\Title\3\Small.png)
-2025/02/22 04:53:50.566 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\9_NamePlateEffect\Title\3\Tiny.png)
-2025/02/22 04:53:51.079 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\9_NamePlateEffect\Title\4\Big.png)
-2025/02/22 04:53:51.079 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\9_NamePlateEffect\Title\4\Small.png)
-2025/02/22 04:53:51.079 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\9_NamePlateEffect\Title\4\Tiny.png)
-2025/02/22 04:53:51.819 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\1_Title\ModeSelect_Bar_Chara_8.png)
-2025/02/22 04:53:51.820 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\1_Title\ModeSelect_Bar_Chara_9.png)
-2025/02/22 04:53:51.820 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\1_Title\ModeSelect_Bar_Chara_10.png)
-2025/02/22 04:53:51.820 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\1_Title\ModeSelect_Bar_Chara_11.png)
-2025/02/22 04:53:51.820 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\1_Title\ModeSelect_Bar_Chara_12.png)
-2025/02/22 04:53:51.820 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\1_Title\ModeSelect_Bar_Chara_13.png)
-2025/02/22 04:53:51.932 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Footer.png)
-2025/02/22 04:53:51.943 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Level.png)
-2025/02/22 04:53:51.954 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Bar_Center.png)
-2025/02/22 04:53:51.954 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Lock.png)
-2025/02/22 04:53:51.978 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Frame_Score_Dan.png)
-2025/02/22 04:53:51.978 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Tower_Side.png)
-2025/02/22 04:53:51.978 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Frame_Box.png)
-2025/02/22 04:53:51.978 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Frame_BackBox.png)
-2025/02/22 04:53:51.978 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Frame_Random.png)
-2025/02/22 04:53:51.983 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Bar_Genre_Locked.png)
-2025/02/22 04:53:51.988 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Bar_Genre_RecentryPlaySong.png)
-2025/02/22 04:53:52.019 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Level_Number_Big.png)
-2025/02/22 04:53:52.019 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Level_Number_Big_Colored.png)
-2025/02/22 04:53:52.019 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Level_Number_Colored.png)
-2025/02/22 04:53:52.019 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Level_Number_Big_Icon.png)
-2025/02/22 04:53:52.019 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Level_Number_Icon.png)
-2025/02/22 04:53:52.019 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Bpm_Number.png)
-2025/02/22 04:53:52.063 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Explicit.png)
-2025/02/22 04:53:52.064 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Movie.png)
-2025/02/22 04:53:52.096 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Difficulty_Cymbol.png)
-2025/02/22 04:53:52.169 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\ScoreWindow_0.png)
-2025/02/22 04:53:52.169 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\ScoreWindow_1.png)
-2025/02/22 04:53:52.169 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\ScoreWindow_2.png)
-2025/02/22 04:53:52.169 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\ScoreWindow_3.png)
-2025/02/22 04:53:52.169 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\ScoreWindow_4.png)
-2025/02/22 04:53:52.169 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\ScoreWindow_5.png)
-2025/02/22 04:53:52.169 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\ScoreWindow_6.png)
-2025/02/22 04:53:52.169 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\ScoreWindow_Text.png)
-2025/02/22 04:53:53.445 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Song_Panel\Song_Panel_Locked_Song.png)
-2025/02/22 04:53:53.445 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Song_Panel\Song_Panel_Locked_Asset.png)
-2025/02/22 04:53:53.462 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Difficulty_Select\Difficulty_Number_Colored.png)
-2025/02/22 04:53:53.463 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Difficulty_Select\Difficulty_Number_Icon.png)
-2025/02/22 04:53:54.965 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\Notes_Konga.png)
-2025/02/22 04:53:55.270 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\6_Taiko\1P_PlayerNumber.png)
-2025/02/22 04:53:55.270 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\6_Taiko\2P_PlayerNumber.png)
-2025/02/22 04:53:55.270 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\6_Taiko\3P_PlayerNumber.png)
-2025/02/22 04:53:55.270 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\6_Taiko\4P_PlayerNumber.png)
-2025/02/22 04:53:55.271 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\6_Taiko\5P_PlayerNumber.png)
-2025/02/22 04:53:55.300 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\6_Taiko\Don_Konga.png)
-2025/02/22 04:53:55.300 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\6_Taiko\Ka_Konga.png)
-2025/02/22 04:53:55.316 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Easy_Back.png)
-2025/02/22 04:53:55.317 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Easy_Back_Flash.png)
-2025/02/22 04:53:55.320 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Normal_Back.png)
-2025/02/22 04:53:55.321 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Normal_Back_Flash.png)
-2025/02/22 04:53:55.325 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Hard_Back.png)
-2025/02/22 04:53:55.325 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Hard_Back_Flash.png)
-2025/02/22 04:53:55.329 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Oni_Back.png)
-2025/02/22 04:53:55.329 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Oni_Back_Flash.png)
-2025/02/22 04:53:55.333 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Edit_Back.png)
-2025/02/22 04:53:55.333 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Edit_Back_Flash.png)
-2025/02/22 04:53:55.333 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Tower.png)
-2025/02/22 04:53:55.333 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Tower_Back.png)
-2025/02/22 04:53:55.334 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Tower_Back_Flash.png)
-2025/02/22 04:53:55.334 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Dan.png)
-2025/02/22 04:53:55.334 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Dan_Back.png)
-2025/02/22 04:53:55.334 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Dan_Back_Flash.png)
-2025/02/22 04:53:55.334 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Shin.png)
-2025/02/22 04:53:55.334 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Shin_Back.png)
-2025/02/22 04:53:55.334 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Shin_Back_Flash.png)
-2025/02/22 04:53:55.375 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\6_Taiko\Combo_Huge.png)
-2025/02/22 04:53:55.392 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\6_Taiko\Combo_Guide0.png)
-2025/02/22 04:53:55.392 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\6_Taiko\Combo_Guide1.png)
-2025/02/22 04:53:55.392 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\6_Taiko\Combo_Guide2.png)
-2025/02/22 04:53:57.152 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\12_Lane\Clap.png)
-2025/02/22 04:53:57.216 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\15_Failed\Game.png)
-2025/02/22 04:53:57.217 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\15_Failed\Stage.png)
-2025/02/22 04:53:57.267 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\17_DanC\Gauge_Flush.png)
-2025/02/22 04:53:57.308 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\17_DanC\ExamUnit.png)
-2025/02/22 04:53:57.334 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\00 - None\Chara.png)
-2025/02/22 04:53:57.335 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\00 - None\Render.png)
-2025/02/22 04:53:57.343 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\01 - Template\Render.png)
-2025/02/22 04:53:57.351 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Arashi\Render.png)
-2025/02/22 04:53:57.359 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\D01 - Dashy\Render.png)
-2025/02/22 04:53:57.367 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\D02 - Dashy Lost\Render.png)
-2025/02/22 04:53:57.376 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Fox Kabuki Kid\Render.png)
-2025/02/22 04:53:57.384 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Fuuga\Render.png)
-2025/02/22 04:53:57.392 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Fuuga and Mirai\Render.png)
-2025/02/22 04:53:57.397 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Hyottoko Kabuki Kid\Render.png)
-2025/02/22 04:53:57.406 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Lantern Eel\Render.png)
-2025/02/22 04:53:57.413 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Maou\Render.png)
-2025/02/22 04:53:57.422 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Mirai\Render.png)
-2025/02/22 04:53:57.426 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Neko and Shaxy\Render.png)
-2025/02/22 04:53:57.434 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Okame Kabuki Kid\Render.png)
-2025/02/22 04:53:57.442 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Princess Soprano\Render.png)
-2025/02/22 04:53:57.451 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Princess Soprano and Ralco\Render.png)
-2025/02/22 04:53:57.459 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Ralco\Render.png)
-2025/02/22 04:53:57.468 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Tatsu-Don\Render.png)
-2025/02/22 04:53:57.469 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\19_Training\Down.png)
-2025/02/22 04:53:58.392 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\6_Result\Dan.png)
-2025/02/22 04:53:58.543 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\6_Result\Speech_Bubble_V2_Left.png)
-2025/02/22 04:53:58.544 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\6_Result\Speech_Bubble_V2_Right.png)
-2025/02/22 04:53:58.544 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\6_Result\Speech_Bubble_V2_4P_5P.png)
-2025/02/22 04:53:58.913 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\6_Result\Crown\Crown_0.png)
-2025/02/22 04:53:58.913 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\6_Result\Crown\Crown_1.png)
-2025/02/22 04:53:58.913 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\6_Result\Crown\Crown_2.png)
-2025/02/22 04:53:59.364 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\10_Heya\Render_Field.png)
-2025/02/22 04:54:14.795 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\AI-san\Render.png)
-2025/02/22 04:54:14.795 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\AI-san\Result_Clear_1P.png)
-2025/02/22 04:54:14.795 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\AI-san\Result_Failed_1P.png)
-2025/02/22 04:54:14.795 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\AI-san\Result_Clear_2P.png)
-2025/02/22 04:54:14.795 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\AI-san\Result_Failed_2P.png)
-2025/02/22 04:54:14.804 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\Don-chan\Render.png)
-2025/02/22 04:54:14.804 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\Don-chan\Result_Clear_1P.png)
-2025/02/22 04:54:14.804 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\Don-chan\Result_Failed_1P.png)
-2025/02/22 04:54:14.804 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\Don-chan\Result_Clear_2P.png)
-2025/02/22 04:54:14.804 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\Don-chan\Result_Failed_2P.png)
-2025/02/22 04:54:14.861 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\test\Result_Clear_1P.png)
-2025/02/22 04:54:14.861 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\test\Result_Failed_1P.png)
-2025/02/22 04:54:14.861 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\test\Result_Clear_2P.png)
-2025/02/22 04:54:14.861 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\test\Result_Failed_2P.png)
-2025/02/22 04:54:14.902 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\段位達人\Result_Clear_1P.png)
-2025/02/22 04:54:14.902 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\段位達人\Result_Failed_1P.png)
-2025/02/22 04:54:14.902 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\段位達人\Result_Clear_2P.png)
-2025/02/22 04:54:14.902 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\段位達人\Result_Failed_2P.png)
-2025/02/22 04:54:14.985 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\11_Modals\0_half_4P.png)
-2025/02/22 04:54:14.986 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\11_Modals\0_half_5P.png)
-2025/02/22 04:54:15.073 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\11_Modals\1_half_4P.png)
-2025/02/22 04:54:15.073 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\11_Modals\1_half_5P.png)
-2025/02/22 04:54:15.155 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\11_Modals\2_half_4P.png)
-2025/02/22 04:54:15.155 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\11_Modals\2_half_5P.png)
-2025/02/22 04:54:15.238 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\11_Modals\3_half_4P.png)
-2025/02/22 04:54:15.238 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\11_Modals\3_half_5P.png)
-2025/02/22 04:54:15.322 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\11_Modals\4_half_4P.png)
-2025/02/22 04:54:15.322 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\11_Modals\4_half_5P.png)
-2025/02/22 04:54:15.699 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\Screen option panels.png)
-2025/02/22 04:54:15.699 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\Screen option panels.png)
-2025/02/22 04:54:15.720 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_preimage panel.png)
-2025/02/22 04:54:15.720 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_sensor.png)
-2025/02/22 04:54:15.720 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\PreImageDefault.png)
-2025/02/22 04:54:15.721 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_information_BG.png)
-2025/02/22 04:54:15.721 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_information.png)
-2025/02/22 04:54:15.721 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_information2.png)
-2025/02/22 04:54:15.808 [WARNING] テクスチャファイルが見つかりませんでした。()
-2025/02/22 04:54:15.809 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Failed.ogg
-2025/02/22 04:54:15.810 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Tower\Tower_Dropout.ogg
-2025/02/22 04:54:15.810 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Tower\Tower_TopReached_Pass.ogg
-2025/02/22 04:54:15.810 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Tower\Tower_TopReached_FullCombo.ogg
-2025/02/22 04:54:15.810 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Tower\Tower_TopReached_Perfect.ogg
-2025/02/22 04:54:15.810 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Dan\Dan_Fail.ogg
-2025/02/22 04:54:15.810 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Dan\Dan_Red_Pass.ogg
-2025/02/22 04:54:15.810 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Dan\Dan_Red_FullCombo.ogg
-2025/02/22 04:54:15.810 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Dan\Dan_Red_Perfect.ogg
-2025/02/22 04:54:15.810 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Dan\Dan_Gold_Pass.ogg
-2025/02/22 04:54:15.810 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Dan\Dan_Gold_FullCombo.ogg
-2025/02/22 04:54:15.810 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Dan\Dan_Gold_Perfect.ogg
-2025/02/22 04:54:15.816 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Clear.ogg
-2025/02/22 04:54:15.816 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Failed.ogg
-2025/02/22 04:54:15.856 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\Screen option panels.png)
-2025/02/22 04:54:17.254 [INFO] 起動ステージを非活性化します。
-2025/02/22 04:54:17.255 [INFO]         起動ステージの非活性化を完了しました。
-2025/02/22 04:54:17.255 [INFO]     ----------------------
-2025/02/22 04:54:17.255 [INFO]     ■ タイトル
-2025/02/22 04:54:17.255 [INFO]     タイトルステージを活性化します。
-2025/02/22 04:54:17.290 [WARNING]         ファイルが存在しません。: Sounds\Entry.ogg
-2025/02/22 04:54:17.293 [INFO]         タイトルステージの活性化を完了しました。
-2025/02/22 04:54:17.316 [INFO]     ★曲データ検索スレッドを起動しました。
-2025/02/22 04:54:17.336 [INFO]     enum2) 曲データを検索します。
-2025/02/22 04:54:17.336 [INFO]     検索パス: C:\Users\kirei\Documents\GitHub\L-Taiko\build\Songs\
-2025/02/22 04:54:17.378 [INFO]     曲データの検索を完了しました。[20曲20スコア]
-2025/02/22 04:54:17.378 [INFO] enum5) 曲リストへの後処理を適用します。
-2025/02/22 04:54:17.382 [INFO]     曲リストへの後処理を完了しました。
-2025/02/22 04:54:17.382 [INFO] enum7) 曲データの情報を songlist.db へ出力します。
-2025/02/22 04:54:17.390 [INFO]     songlist.db への出力を完了しました。
-2025/02/22 04:54:17.390 [INFO] 曲探索所要時間: 00:00:00.0727533
-2025/02/22 04:54:34.930 [WARNING] ファイルが存在しません。: C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\Don-chan\Sounds\Title\Sanka.wav
-すきな曲や、むずかしさを
-えらんであそべるよ！: Cacheにヒットせず。(cachesize=1)
-演奏ゲーム: Cacheにヒットせず。(cachesize=1)
-３曲連続して演奏しながら、
-お題の合格を目指そう！
-合格すると腕前が認定されるよ！: Cacheにヒットせず。(cachesize=2)
-段位道場: Cacheにヒットせず。(cachesize=2)
-有限のライフを持って、
-タワーの頂上を登って
-挑戦できるよ！: Cacheにヒットせず。(cachesize=3)
-太鼓タワー: Cacheにヒットせず。(cachesize=3)
-「AI」と勝つか負けるか
-ギリギリのバトルをたのしもう！: Cacheにヒットせず。(cachesize=4)
-AIバトル演奏: Cacheにヒットせず。(cachesize=4)
-キャラクタ、プチキャラ、
-ネームプレートの情報を変えるよ！: Cacheにヒットせず。(cachesize=5)
-太鼓部屋: Cacheにヒットせず。(cachesize=5)
-稼いだメダルを費やして、
-新しい曲やプチキャラを買えるよ！: Cacheにヒットせず。(cachesize=6)
-メダル商店: Cacheにヒットせず。(cachesize=6)
-OpenTaikoの機能または新しい
-コンテンツを追加方法
-について勉強できるよ！: Cacheにヒットせず。(cachesize=7)
-Open百科事典: Cacheにヒットせず。(cachesize=7)
-インターネットで新しい譜面
-またはコンテンツを
-ダウンロードできるよ！: Cacheにヒットせず。(cachesize=8)
-オンライン喫茶店: Cacheにヒットせず。(cachesize=8)
-ゲームスタイルや
-一般的な設定を設けられるよ！: Cacheにヒットせず。(cachesize=9)
-設定: Cacheにヒットせず。(cachesize=9)
-セッションを終了できるよ。
-また遊んでね！: Cacheにヒットせず。(cachesize=10)
-ゲーム終了: Cacheにヒットせず。(cachesize=10)
-2025/02/22 04:54:40.703 [INFO] タイトルステージを非活性化します。
-2025/02/22 04:54:40.705 [INFO]         タイトルステージの非活性化を完了しました。
-2025/02/22 04:54:40.705 [INFO]     ----------------------
-2025/02/22 04:54:40.705 [INFO]     ■ 終了
-2025/02/22 04:54:40.705 [INFO]     終了ステージを活性化します。
-2025/02/22 04:54:40.742 [INFO]         終了ステージの活性化を完了しました。
-2025/02/22 04:54:40.744 [WARNING]     ファイルが存在しません。: Sounds\Game end.ogg
-2025/02/22 04:54:43.749 [INFO]     ----------------------
-2025/02/22 04:54:43.749 [INFO]     ■ アプリケーションの終了
-2025/02/22 04:54:43.749 [INFO]     曲検索actの終了処理を行います。
-2025/02/22 04:54:43.749 [INFO]         曲検索actの終了処理を完了しました。
-2025/02/22 04:54:43.749 [INFO]     現在のステージを終了します。
-2025/02/22 04:54:43.749 [INFO]         終了ステージを非活性化します。
-2025/02/22 04:54:43.749 [INFO]             終了ステージの非活性化を完了しました。
-2025/02/22 04:54:43.749 [INFO]         現在のステージの終了処理を完了しました。
-2025/02/22 04:54:43.750 [INFO]     曲リストの終了処理を行います。
-2025/02/22 04:54:43.757 [INFO]         曲リストの終了処理を完了しました。
-2025/02/22 04:54:43.779 [INFO]     CStage演奏画面共通 リソースの開放
-2025/02/22 04:54:43.779 [INFO]     スキンの終了処理を行います。
-2025/02/22 04:54:43.783 [INFO]         スキンの終了処理を完了しました。
-2025/02/22 04:54:43.783 [INFO]     DirectSound の終了処理を行います。
-2025/02/22 04:54:43.789 [INFO]         DirectSound の終了処理を完了しました。
-2025/02/22 04:54:43.789 [INFO]     パッドの終了処理を行います。
-2025/02/22 04:54:43.789 [INFO]         パッドの終了処理を完了しました。
-2025/02/22 04:54:43.789 [INFO]     DirectInput, MIDI入力の終了処理を行います。
-2025/02/22 04:54:43.791 [INFO]         DirectInput, MIDI入力の終了処理を完了しました。
-2025/02/22 04:54:43.791 [INFO]     文字コンソールの終了処理を行います。
-2025/02/22 04:54:43.791 [INFO]         文字コンソールの終了処理を完了しました。
-2025/02/22 04:54:43.791 [INFO]     FPSカウンタの終了処理を行います。
-2025/02/22 04:54:43.791 [INFO]         FPSカウンタの終了処理を完了しました。
-2025/02/22 04:54:43.791 [INFO]     タイマの終了処理を行います。
-2025/02/22 04:54:43.791 [INFO]         タイマの終了処理を完了しました。
-2025/02/22 04:54:43.791 [INFO]     Config.ini を出力します。
-2025/02/22 04:54:43.805 [INFO]         保存しました。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Config.ini)
-2025/02/22 04:54:43.805 [INFO]     Deinitializing loudness scanning, song gain control, and sound group level control...
-2025/02/22 04:54:43.805 [INFO]     Deinitialized loudness scanning, song gain control, and sound group level control.
-2025/02/22 04:54:43.805 [INFO]     アプリケーションの終了処理を完了しました。
+2025/02/22 04:56:32.262 [INFO]     プラグインの検索と生成を行います。
+2025/02/22 04:56:32.262 [WARNING]         The plugin folder does not exist. (C:\Users\kirei\Documents\GitHub\L-Taiko\build\Plugins\)
+2025/02/22 04:56:32.262 [INFO]         プラグインの検索と生成を完了しました。
+2025/02/22 04:56:32.268 [INFO]     アプリケーションの初期化を完了しました。
+2025/02/22 04:56:32.268 [INFO]     ----------------------
+2025/02/22 04:56:32.268 [INFO]     ■ 起動
+2025/02/22 04:56:32.268 [INFO]     起動ステージを活性化します。
+2025/02/22 04:56:32.271 [INFO]         起動ステージの活性化を完了しました。
+2025/02/22 04:56:32.297 [INFO]     0) システムサウンドを構築します。
+2025/02/22 04:56:32.297 [WARNING]     ファイルが存在しません。: Sounds\BGM\Setup.ogg
+2025/02/22 04:56:32.305 [INFO]     システムサウンドを読み込みました。(Sounds\Move.wav)
+2025/02/22 04:56:32.306 [INFO]     システムサウンドを読み込みました。(Sounds\Decide.wav)
+2025/02/22 04:56:32.306 [INFO]     システムサウンドを読み込みました。(Sounds\Change.wav)
+2025/02/22 04:56:32.307 [INFO]     システムサウンドを読み込みました。(Sounds\Cancel.wav)
+2025/02/22 04:56:32.307 [WARNING]     ファイルが存在しません。: Sounds\Audience.ogg
+2025/02/22 04:56:32.307 [INFO]     システムサウンドを読み込みました。(Sounds\Audience.ogg)
+2025/02/22 04:56:32.307 [WARNING]     ファイルが存在しません。: Sounds\Game start.ogg
+2025/02/22 04:56:32.307 [INFO]     システムサウンドを読み込みました。(Sounds\Game start.ogg)
+2025/02/22 04:56:32.307 [WARNING]     ファイルが存在しません。: Sounds\Full combo.ogg
+2025/02/22 04:56:32.307 [INFO]     システムサウンドを読み込みました。(Sounds\Full combo.ogg)
+2025/02/22 04:56:32.309 [INFO]     システムサウンドを読み込みました。(Sounds\BGM\Title.ogg)
+2025/02/22 04:56:32.311 [INFO]     システムサウンドを読み込みました。(Sounds\BGM\SongSelect.ogg)
+2025/02/22 04:56:32.311 [INFO]     システムサウンドを読み込みました。(Sounds\balloon.wav)
+2025/02/22 04:56:32.312 [INFO]     システムサウンドを読み込みました。(Sounds\SongDecide.wav)
+2025/02/22 04:56:32.313 [INFO]     システムサウンドを読み込みました。(Sounds\BGM\Result_In.ogg)
+2025/02/22 04:56:32.314 [WARNING]     ファイルが存在しません。: Sounds\Resume.ogg
+2025/02/22 04:56:32.314 [INFO]     システムサウンドを読み込みました。(Sounds\Resume.ogg)
+2025/02/22 04:56:32.314 [WARNING]     ファイルが存在しません。: Sounds\Pause.ogg
+2025/02/22 04:56:32.314 [INFO]     システムサウンドを読み込みました。(Sounds\Pause.ogg)
+2025/02/22 04:56:32.314 [WARNING]     ファイルが存在しません。: Sounds\Scroll.ogg
+2025/02/22 04:56:32.314 [INFO]     システムサウンドを読み込みました。(Sounds\Scroll.ogg)
+2025/02/22 04:56:32.314 [WARNING]     ファイルが存在しません。: Sounds\Jump Point.ogg
+2025/02/22 04:56:32.314 [INFO]     システムサウンドを読み込みました。(Sounds\Jump Point.ogg)
+2025/02/22 04:56:32.315 [INFO]     システムサウンドを読み込みました。(Sounds\Traning Skip.ogg)
+2025/02/22 04:56:32.315 [INFO] 起動所要時間: 00:00:00.0185860
+2025/02/22 04:56:32.481 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\Overlay.png)
+2025/02/22 04:56:32.548 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\1P_NamePlate.png)
+2025/02/22 04:56:32.548 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\2P_NamePlate.png)
+2025/02/22 04:56:32.620 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\9_NamePlateEffect\Title\0\Big.png)
+2025/02/22 04:56:32.620 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\9_NamePlateEffect\Title\0\Small.png)
+2025/02/22 04:56:32.620 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\9_NamePlateEffect\Title\0\Tiny.png)
+2025/02/22 04:56:33.516 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\9_NamePlateEffect\Title\3\Big.png)
+2025/02/22 04:56:33.516 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\9_NamePlateEffect\Title\3\Small.png)
+2025/02/22 04:56:33.516 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\9_NamePlateEffect\Title\3\Tiny.png)
+2025/02/22 04:56:35.086 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\9_NamePlateEffect\Title\4\Big.png)
+2025/02/22 04:56:35.086 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\9_NamePlateEffect\Title\4\Small.png)
+2025/02/22 04:56:35.086 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\9_NamePlateEffect\Title\4\Tiny.png)
+2025/02/22 04:56:36.227 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\1_Title\ModeSelect_Bar_Chara_8.png)
+2025/02/22 04:56:36.228 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\1_Title\ModeSelect_Bar_Chara_9.png)
+2025/02/22 04:56:36.228 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\1_Title\ModeSelect_Bar_Chara_10.png)
+2025/02/22 04:56:36.228 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\1_Title\ModeSelect_Bar_Chara_11.png)
+2025/02/22 04:56:36.228 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\1_Title\ModeSelect_Bar_Chara_12.png)
+2025/02/22 04:56:36.228 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\1_Title\ModeSelect_Bar_Chara_13.png)
+2025/02/22 04:56:36.363 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Footer.png)
+2025/02/22 04:56:36.374 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Level.png)
+2025/02/22 04:56:36.390 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Bar_Center.png)
+2025/02/22 04:56:36.390 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Lock.png)
+2025/02/22 04:56:36.424 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Frame_Score_Dan.png)
+2025/02/22 04:56:36.424 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Tower_Side.png)
+2025/02/22 04:56:36.424 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Frame_Box.png)
+2025/02/22 04:56:36.424 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Frame_BackBox.png)
+2025/02/22 04:56:36.424 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Frame_Random.png)
+2025/02/22 04:56:36.430 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Bar_Genre_Locked.png)
+2025/02/22 04:56:36.444 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Bar_Genre_RecentryPlaySong.png)
+2025/02/22 04:56:36.480 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Level_Number_Big.png)
+2025/02/22 04:56:36.480 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Level_Number_Big_Colored.png)
+2025/02/22 04:56:36.480 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Level_Number_Colored.png)
+2025/02/22 04:56:36.481 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Level_Number_Big_Icon.png)
+2025/02/22 04:56:36.481 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Level_Number_Icon.png)
+2025/02/22 04:56:36.481 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Bpm_Number.png)
+2025/02/22 04:56:36.521 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Explicit.png)
+2025/02/22 04:56:36.521 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Movie.png)
+2025/02/22 04:56:36.595 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Difficulty_Cymbol.png)
+2025/02/22 04:56:36.687 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\ScoreWindow_0.png)
+2025/02/22 04:56:36.687 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\ScoreWindow_1.png)
+2025/02/22 04:56:36.687 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\ScoreWindow_2.png)
+2025/02/22 04:56:36.687 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\ScoreWindow_3.png)
+2025/02/22 04:56:36.687 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\ScoreWindow_4.png)
+2025/02/22 04:56:36.687 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\ScoreWindow_5.png)
+2025/02/22 04:56:36.687 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\ScoreWindow_6.png)
+2025/02/22 04:56:36.687 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\ScoreWindow_Text.png)
+2025/02/22 04:56:38.243 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Song_Panel\Song_Panel_Locked_Song.png)
+2025/02/22 04:56:38.243 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Song_Panel\Song_Panel_Locked_Asset.png)
+2025/02/22 04:56:38.262 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Difficulty_Select\Difficulty_Number_Colored.png)
+2025/02/22 04:56:38.262 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Difficulty_Select\Difficulty_Number_Icon.png)
+2025/02/22 04:56:40.059 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\Notes_Konga.png)
+2025/02/22 04:56:40.559 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\6_Taiko\1P_PlayerNumber.png)
+2025/02/22 04:56:40.560 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\6_Taiko\2P_PlayerNumber.png)
+2025/02/22 04:56:40.560 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\6_Taiko\3P_PlayerNumber.png)
+2025/02/22 04:56:40.560 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\6_Taiko\4P_PlayerNumber.png)
+2025/02/22 04:56:40.560 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\6_Taiko\5P_PlayerNumber.png)
+2025/02/22 04:56:40.618 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\6_Taiko\Don_Konga.png)
+2025/02/22 04:56:40.618 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\6_Taiko\Ka_Konga.png)
+2025/02/22 04:56:40.642 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Easy_Back.png)
+2025/02/22 04:56:40.642 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Easy_Back_Flash.png)
+2025/02/22 04:56:40.653 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Normal_Back.png)
+2025/02/22 04:56:40.653 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Normal_Back_Flash.png)
+2025/02/22 04:56:40.658 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Hard_Back.png)
+2025/02/22 04:56:40.658 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Hard_Back_Flash.png)
+2025/02/22 04:56:40.663 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Oni_Back.png)
+2025/02/22 04:56:40.663 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Oni_Back_Flash.png)
+2025/02/22 04:56:40.673 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Edit_Back.png)
+2025/02/22 04:56:40.674 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Edit_Back_Flash.png)
+2025/02/22 04:56:40.674 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Tower.png)
+2025/02/22 04:56:40.674 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Tower_Back.png)
+2025/02/22 04:56:40.674 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Tower_Back_Flash.png)
+2025/02/22 04:56:40.674 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Dan.png)
+2025/02/22 04:56:40.674 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Dan_Back.png)
+2025/02/22 04:56:40.674 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Dan_Back_Flash.png)
+2025/02/22 04:56:40.674 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Shin.png)
+2025/02/22 04:56:40.674 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Shin_Back.png)
+2025/02/22 04:56:40.674 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Shin_Back_Flash.png)
+2025/02/22 04:56:40.737 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\6_Taiko\Combo_Huge.png)
+2025/02/22 04:56:40.770 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\6_Taiko\Combo_Guide0.png)
+2025/02/22 04:56:40.771 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\6_Taiko\Combo_Guide1.png)
+2025/02/22 04:56:40.771 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\6_Taiko\Combo_Guide2.png)
+2025/02/22 04:56:43.353 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\12_Lane\Clap.png)
+2025/02/22 04:56:43.437 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\15_Failed\Game.png)
+2025/02/22 04:56:43.437 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\15_Failed\Stage.png)
+2025/02/22 04:56:43.509 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\17_DanC\Gauge_Flush.png)
+2025/02/22 04:56:43.603 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\17_DanC\ExamUnit.png)
+2025/02/22 04:56:43.634 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\00 - None\Chara.png)
+2025/02/22 04:56:43.634 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\00 - None\Render.png)
+2025/02/22 04:56:43.646 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\01 - Template\Render.png)
+2025/02/22 04:56:43.655 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Arashi\Render.png)
+2025/02/22 04:56:43.660 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\D01 - Dashy\Render.png)
+2025/02/22 04:56:43.667 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\D02 - Dashy Lost\Render.png)
+2025/02/22 04:56:43.677 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Fox Kabuki Kid\Render.png)
+2025/02/22 04:56:43.686 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Fuuga\Render.png)
+2025/02/22 04:56:43.702 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Fuuga and Mirai\Render.png)
+2025/02/22 04:56:43.709 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Hyottoko Kabuki Kid\Render.png)
+2025/02/22 04:56:43.723 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Lantern Eel\Render.png)
+2025/02/22 04:56:43.727 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Maou\Render.png)
+2025/02/22 04:56:43.737 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Mirai\Render.png)
+2025/02/22 04:56:43.742 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Neko and Shaxy\Render.png)
+2025/02/22 04:56:43.753 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Okame Kabuki Kid\Render.png)
+2025/02/22 04:56:43.759 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Princess Soprano\Render.png)
+2025/02/22 04:56:43.768 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Princess Soprano and Ralco\Render.png)
+2025/02/22 04:56:43.773 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Ralco\Render.png)
+2025/02/22 04:56:43.777 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Tatsu-Don\Render.png)
+2025/02/22 04:56:43.778 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\19_Training\Down.png)
+2025/02/22 04:56:45.161 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\6_Result\Dan.png)
+2025/02/22 04:56:45.328 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\6_Result\Speech_Bubble_V2_Left.png)
+2025/02/22 04:56:45.328 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\6_Result\Speech_Bubble_V2_Right.png)
+2025/02/22 04:56:45.328 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\6_Result\Speech_Bubble_V2_4P_5P.png)
+2025/02/22 04:56:45.872 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\6_Result\Crown\Crown_0.png)
+2025/02/22 04:56:45.872 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\6_Result\Crown\Crown_1.png)
+2025/02/22 04:56:45.873 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\6_Result\Crown\Crown_2.png)
+2025/02/22 04:56:46.437 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\10_Heya\Render_Field.png)
+2025/02/22 04:57:10.043 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\AI-san\Render.png)
+2025/02/22 04:57:10.043 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\AI-san\Result_Clear_1P.png)
+2025/02/22 04:57:10.043 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\AI-san\Result_Failed_1P.png)
+2025/02/22 04:57:10.043 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\AI-san\Result_Clear_2P.png)
+2025/02/22 04:57:10.043 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\AI-san\Result_Failed_2P.png)
+2025/02/22 04:57:10.053 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\Don-chan\Render.png)
+2025/02/22 04:57:10.053 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\Don-chan\Result_Clear_1P.png)
+2025/02/22 04:57:10.053 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\Don-chan\Result_Failed_1P.png)
+2025/02/22 04:57:10.053 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\Don-chan\Result_Clear_2P.png)
+2025/02/22 04:57:10.053 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\Don-chan\Result_Failed_2P.png)
+2025/02/22 04:57:10.110 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\test\Result_Clear_1P.png)
+2025/02/22 04:57:10.110 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\test\Result_Failed_1P.png)
+2025/02/22 04:57:10.110 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\test\Result_Clear_2P.png)
+2025/02/22 04:57:10.110 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\test\Result_Failed_2P.png)
+2025/02/22 04:57:10.162 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\段位達人\Result_Clear_1P.png)
+2025/02/22 04:57:10.163 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\段位達人\Result_Failed_1P.png)
+2025/02/22 04:57:10.163 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\段位達人\Result_Clear_2P.png)
+2025/02/22 04:57:10.163 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\段位達人\Result_Failed_2P.png)
+2025/02/22 04:57:10.256 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\11_Modals\0_half_4P.png)
+2025/02/22 04:57:10.256 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\11_Modals\0_half_5P.png)
+2025/02/22 04:57:10.353 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\11_Modals\1_half_4P.png)
+2025/02/22 04:57:10.353 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\11_Modals\1_half_5P.png)
+2025/02/22 04:57:10.436 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\11_Modals\2_half_4P.png)
+2025/02/22 04:57:10.436 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\11_Modals\2_half_5P.png)
+2025/02/22 04:57:10.519 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\11_Modals\3_half_4P.png)
+2025/02/22 04:57:10.520 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\11_Modals\3_half_5P.png)
+2025/02/22 04:57:10.606 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\11_Modals\4_half_4P.png)
+2025/02/22 04:57:10.606 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\11_Modals\4_half_5P.png)
+2025/02/22 04:57:11.037 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\Screen option panels.png)
+2025/02/22 04:57:11.037 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\Screen option panels.png)
+2025/02/22 04:57:11.075 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_preimage panel.png)
+2025/02/22 04:57:11.075 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_sensor.png)
+2025/02/22 04:57:11.075 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\PreImageDefault.png)
+2025/02/22 04:57:11.075 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_information_BG.png)
+2025/02/22 04:57:11.075 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_information.png)
+2025/02/22 04:57:11.075 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_information2.png)
+2025/02/22 04:57:11.184 [WARNING] テクスチャファイルが見つかりませんでした。()
+2025/02/22 04:57:11.184 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Failed.ogg
+2025/02/22 04:57:11.185 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Tower\Tower_Dropout.ogg
+2025/02/22 04:57:11.185 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Tower\Tower_TopReached_Pass.ogg
+2025/02/22 04:57:11.185 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Tower\Tower_TopReached_FullCombo.ogg
+2025/02/22 04:57:11.185 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Tower\Tower_TopReached_Perfect.ogg
+2025/02/22 04:57:11.185 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Dan\Dan_Fail.ogg
+2025/02/22 04:57:11.186 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Dan\Dan_Red_Pass.ogg
+2025/02/22 04:57:11.186 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Dan\Dan_Red_FullCombo.ogg
+2025/02/22 04:57:11.186 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Dan\Dan_Red_Perfect.ogg
+2025/02/22 04:57:11.186 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Dan\Dan_Gold_Pass.ogg
+2025/02/22 04:57:11.186 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Dan\Dan_Gold_FullCombo.ogg
+2025/02/22 04:57:11.186 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Dan\Dan_Gold_Perfect.ogg
+2025/02/22 04:57:11.189 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Clear.ogg
+2025/02/22 04:57:11.189 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Failed.ogg
+2025/02/22 04:57:11.226 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\Screen option panels.png)
+2025/02/22 04:57:12.656 [INFO] 起動ステージを非活性化します。
+2025/02/22 04:57:12.656 [INFO]         起動ステージの非活性化を完了しました。
+2025/02/22 04:57:12.656 [INFO]     ----------------------
+2025/02/22 04:57:12.656 [INFO]     ■ タイトル
+2025/02/22 04:57:12.656 [INFO]     タイトルステージを活性化します。
+2025/02/22 04:57:12.696 [WARNING]         ファイルが存在しません。: Sounds\Entry.ogg
+2025/02/22 04:57:12.698 [INFO]         タイトルステージの活性化を完了しました。
+2025/02/22 04:57:12.722 [INFO]     ★曲データ検索スレッドを起動しました。
+2025/02/22 04:57:12.737 [INFO]     enum2) 曲データを検索します。
+2025/02/22 04:57:12.738 [INFO]     検索パス: C:\Users\kirei\Documents\GitHub\L-Taiko\build\Songs\
+2025/02/22 04:57:12.765 [INFO]     曲データの検索を完了しました。[20曲20スコア]
+2025/02/22 04:57:12.765 [INFO] enum5) 曲リストへの後処理を適用します。
+2025/02/22 04:57:12.769 [INFO]     曲リストへの後処理を完了しました。
+2025/02/22 04:57:12.769 [INFO] enum7) 曲データの情報を songlist.db へ出力します。
+2025/02/22 04:57:12.779 [INFO]     songlist.db への出力を完了しました。
+2025/02/22 04:57:12.779 [INFO] 曲探索所要時間: 00:00:00.0557549
+2025/02/22 04:57:57.482 [INFO] タイトルステージを非活性化します。
+2025/02/22 04:57:57.483 [INFO]         タイトルステージの非活性化を完了しました。
+2025/02/22 04:57:57.483 [INFO]     ----------------------
+2025/02/22 04:57:57.483 [INFO]     ■ 終了
+2025/02/22 04:57:57.483 [INFO]     終了ステージを活性化します。
+2025/02/22 04:57:57.519 [INFO]         終了ステージの活性化を完了しました。
+2025/02/22 04:57:57.521 [WARNING]     ファイルが存在しません。: Sounds\Game end.ogg
+2025/02/22 04:58:00.528 [INFO]     ----------------------
+2025/02/22 04:58:00.528 [INFO]     ■ アプリケーションの終了
+2025/02/22 04:58:00.528 [INFO]     曲検索actの終了処理を行います。
+2025/02/22 04:58:00.528 [INFO]         曲検索actの終了処理を完了しました。
+2025/02/22 04:58:00.528 [INFO]     現在のステージを終了します。
+2025/02/22 04:58:00.528 [INFO]         終了ステージを非活性化します。
+2025/02/22 04:58:00.528 [INFO]             終了ステージの非活性化を完了しました。
+2025/02/22 04:58:00.528 [INFO]         現在のステージの終了処理を完了しました。
+2025/02/22 04:58:00.529 [INFO]     曲リストの終了処理を行います。
+2025/02/22 04:58:00.536 [INFO]         曲リストの終了処理を完了しました。
+2025/02/22 04:58:00.561 [INFO]     CStage演奏画面共通 リソースの開放
+2025/02/22 04:58:00.562 [INFO]     スキンの終了処理を行います。
+2025/02/22 04:58:00.566 [INFO]         スキンの終了処理を完了しました。
+2025/02/22 04:58:00.566 [INFO]     DirectSound の終了処理を行います。
+2025/02/22 04:58:00.571 [INFO]         DirectSound の終了処理を完了しました。
+2025/02/22 04:58:00.571 [INFO]     パッドの終了処理を行います。
+2025/02/22 04:58:00.571 [INFO]         パッドの終了処理を完了しました。
+2025/02/22 04:58:00.571 [INFO]     DirectInput, MIDI入力の終了処理を行います。
+2025/02/22 04:58:00.573 [INFO]         DirectInput, MIDI入力の終了処理を完了しました。
+2025/02/22 04:58:00.573 [INFO]     文字コンソールの終了処理を行います。
+2025/02/22 04:58:00.573 [INFO]         文字コンソールの終了処理を完了しました。
+2025/02/22 04:58:00.573 [INFO]     FPSカウンタの終了処理を行います。
+2025/02/22 04:58:00.573 [INFO]         FPSカウンタの終了処理を完了しました。
+2025/02/22 04:58:00.573 [INFO]     タイマの終了処理を行います。
+2025/02/22 04:58:00.573 [INFO]         タイマの終了処理を完了しました。
+2025/02/22 04:58:00.573 [INFO]     Config.ini を出力します。
+2025/02/22 04:58:00.590 [INFO]         保存しました。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Config.ini)
+2025/02/22 04:58:00.591 [INFO]     Deinitializing loudness scanning, song gain control, and sound group level control...
+2025/02/22 04:58:00.591 [INFO]     Deinitialized loudness scanning, song gain control, and sound group level control.
+2025/02/22 04:58:00.591 [INFO]     アプリケーションの終了処理を完了しました。
 
 遊んでくれてありがとう！
