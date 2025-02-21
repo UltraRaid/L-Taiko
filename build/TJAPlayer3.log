@@ -2,136 +2,136 @@
 DTXMania powered by YAMAHA Silent Session Drums
 Release: 1.0.0.0
 
-2025/02/22 02:51:26.789 [INFO] ----------------------
-2025/02/22 02:51:26.792 [INFO] ■ アプリケーションの初期化
-2025/02/22 02:51:26.792 [INFO] OS Version: Microsoft Windows NT 10.0.26120.0
-2025/02/22 02:51:26.792 [INFO] ProcessorCount: 16
-2025/02/22 02:51:26.792 [INFO] CLR Version: 7.0.0
-2025/02/22 02:51:26.793 [INFO] スキンの初期化を行います。
-2025/02/22 02:51:26.812 [INFO]     SkinPath検出: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\Moshir's OpenTaiko Skin\
-2025/02/22 02:51:26.813 [INFO]     SkinPath検出: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\
-2025/02/22 02:51:26.813 [INFO]     SkinPath入力: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\
-2025/02/22 02:51:26.815 [INFO]     SkinPath設定: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\
-2025/02/22 02:51:26.816 [INFO]     システムサウンドを読み込みました。(Sounds\Move.wav)
-2025/02/22 02:51:26.816 [INFO]     システムサウンドを読み込みました。(Sounds\Decide.wav)
-2025/02/22 02:51:26.816 [INFO]     システムサウンドを読み込みました。(Sounds\Change.wav)
-2025/02/22 02:51:26.816 [INFO]     システムサウンドを読み込みました。(Sounds\Cancel.wav)
-2025/02/22 02:51:26.817 [WARNING]     ファイルが存在しません。: Sounds\Audience.ogg
-2025/02/22 02:51:26.817 [INFO]     システムサウンドを読み込みました。(Sounds\Audience.ogg)
-2025/02/22 02:51:26.817 [WARNING]     ファイルが存在しません。: Sounds\Game start.ogg
-2025/02/22 02:51:26.817 [INFO]     システムサウンドを読み込みました。(Sounds\Game start.ogg)
-2025/02/22 02:51:26.817 [WARNING]     ファイルが存在しません。: Sounds\Full combo.ogg
-2025/02/22 02:51:26.817 [INFO]     システムサウンドを読み込みました。(Sounds\Full combo.ogg)
-2025/02/22 02:51:26.817 [INFO]     システムサウンドを読み込みました。(Sounds\BGM\Title.ogg)
-2025/02/22 02:51:26.817 [INFO]     システムサウンドを読み込みました。(Sounds\BGM\SongSelect.ogg)
-2025/02/22 02:51:26.817 [INFO]     システムサウンドを読み込みました。(Sounds\balloon.wav)
-2025/02/22 02:51:26.817 [INFO]     システムサウンドを読み込みました。(Sounds\SongDecide.wav)
-2025/02/22 02:51:26.817 [INFO]     システムサウンドを読み込みました。(Sounds\BGM\Result_In.ogg)
-2025/02/22 02:51:26.817 [WARNING]     ファイルが存在しません。: Sounds\Resume.ogg
-2025/02/22 02:51:26.817 [INFO]     システムサウンドを読み込みました。(Sounds\Resume.ogg)
-2025/02/22 02:51:26.817 [WARNING]     ファイルが存在しません。: Sounds\Pause.ogg
-2025/02/22 02:51:26.817 [INFO]     システムサウンドを読み込みました。(Sounds\Pause.ogg)
-2025/02/22 02:51:26.817 [WARNING]     ファイルが存在しません。: Sounds\Scroll.ogg
-2025/02/22 02:51:26.817 [INFO]     システムサウンドを読み込みました。(Sounds\Scroll.ogg)
-2025/02/22 02:51:26.817 [WARNING]     ファイルが存在しません。: Sounds\Jump Point.ogg
-2025/02/22 02:51:26.817 [INFO]     システムサウンドを読み込みました。(Sounds\Jump Point.ogg)
-2025/02/22 02:51:26.817 [INFO]     システムサウンドを読み込みました。(Sounds\Traning Skip.ogg)
-2025/02/22 02:51:26.950 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
+2025/02/22 04:53:49.475 [INFO] ----------------------
+2025/02/22 04:53:49.477 [INFO] ■ アプリケーションの初期化
+2025/02/22 04:53:49.477 [INFO] OS Version: Microsoft Windows NT 10.0.26120.0
+2025/02/22 04:53:49.477 [INFO] ProcessorCount: 16
+2025/02/22 04:53:49.478 [INFO] CLR Version: 7.0.0
+2025/02/22 04:53:49.478 [INFO] スキンの初期化を行います。
+2025/02/22 04:53:49.495 [INFO]     SkinPath検出: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\Moshir's OpenTaiko Skin\
+2025/02/22 04:53:49.495 [INFO]     SkinPath検出: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\
+2025/02/22 04:53:49.495 [INFO]     SkinPath入力: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\
+2025/02/22 04:53:49.498 [INFO]     SkinPath設定: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\
+2025/02/22 04:53:49.498 [INFO]     システムサウンドを読み込みました。(Sounds\Move.wav)
+2025/02/22 04:53:49.498 [INFO]     システムサウンドを読み込みました。(Sounds\Decide.wav)
+2025/02/22 04:53:49.499 [INFO]     システムサウンドを読み込みました。(Sounds\Change.wav)
+2025/02/22 04:53:49.499 [INFO]     システムサウンドを読み込みました。(Sounds\Cancel.wav)
+2025/02/22 04:53:49.499 [WARNING]     ファイルが存在しません。: Sounds\Audience.ogg
+2025/02/22 04:53:49.499 [INFO]     システムサウンドを読み込みました。(Sounds\Audience.ogg)
+2025/02/22 04:53:49.499 [WARNING]     ファイルが存在しません。: Sounds\Game start.ogg
+2025/02/22 04:53:49.499 [INFO]     システムサウンドを読み込みました。(Sounds\Game start.ogg)
+2025/02/22 04:53:49.499 [WARNING]     ファイルが存在しません。: Sounds\Full combo.ogg
+2025/02/22 04:53:49.499 [INFO]     システムサウンドを読み込みました。(Sounds\Full combo.ogg)
+2025/02/22 04:53:49.499 [INFO]     システムサウンドを読み込みました。(Sounds\BGM\Title.ogg)
+2025/02/22 04:53:49.499 [INFO]     システムサウンドを読み込みました。(Sounds\BGM\SongSelect.ogg)
+2025/02/22 04:53:49.499 [INFO]     システムサウンドを読み込みました。(Sounds\balloon.wav)
+2025/02/22 04:53:49.499 [INFO]     システムサウンドを読み込みました。(Sounds\SongDecide.wav)
+2025/02/22 04:53:49.499 [INFO]     システムサウンドを読み込みました。(Sounds\BGM\Result_In.ogg)
+2025/02/22 04:53:49.499 [WARNING]     ファイルが存在しません。: Sounds\Resume.ogg
+2025/02/22 04:53:49.499 [INFO]     システムサウンドを読み込みました。(Sounds\Resume.ogg)
+2025/02/22 04:53:49.499 [WARNING]     ファイルが存在しません。: Sounds\Pause.ogg
+2025/02/22 04:53:49.499 [INFO]     システムサウンドを読み込みました。(Sounds\Pause.ogg)
+2025/02/22 04:53:49.500 [WARNING]     ファイルが存在しません。: Sounds\Scroll.ogg
+2025/02/22 04:53:49.500 [INFO]     システムサウンドを読み込みました。(Sounds\Scroll.ogg)
+2025/02/22 04:53:49.500 [WARNING]     ファイルが存在しません。: Sounds\Jump Point.ogg
+2025/02/22 04:53:49.500 [INFO]     システムサウンドを読み込みました。(Sounds\Jump Point.ogg)
+2025/02/22 04:53:49.500 [INFO]     システムサウンドを読み込みました。(Sounds\Traning Skip.ogg)
+2025/02/22 04:53:49.629 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
    at TJAPlayer3.CSkin.t文字列から読み込み(String strAllSettings) in C:\Users\kirei\Documents\GitHub\L-Taiko\src\OpenTaiko\src\Common\CSkin.cs:line 3855
-2025/02/22 02:51:26.950 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
-2025/02/22 02:51:26.952 [ERROR]     System.FormatException: The input string '485 ;2桁のとき' was not in a correct format.
+2025/02/22 04:53:49.629 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
+2025/02/22 04:53:49.631 [ERROR]     System.FormatException: The input string '485 ;2桁のとき' was not in a correct format.
    at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, ReadOnlySpan`1 value, TypeCode type)
    at System.Int32.Parse(String s)
    at TJAPlayer3.CSkin.t文字列から読み込み(String strAllSettings) in C:\Users\kirei\Documents\GitHub\L-Taiko\src\OpenTaiko\src\Common\CSkin.cs:line 5701
-2025/02/22 02:51:26.952 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
-2025/02/22 02:51:26.952 [ERROR]     System.FormatException: The input string '449　;3桁のとき' was not in a correct format.
+2025/02/22 04:53:49.631 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
+2025/02/22 04:53:49.632 [ERROR]     System.FormatException: The input string '449　;3桁のとき' was not in a correct format.
    at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, ReadOnlySpan`1 value, TypeCode type)
    at System.Int32.Parse(String s)
    at TJAPlayer3.CSkin.t文字列から読み込み(String strAllSettings) in C:\Users\kirei\Documents\GitHub\L-Taiko\src\OpenTaiko\src\Common\CSkin.cs:line 5719
-2025/02/22 02:51:26.952 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
-2025/02/22 02:51:26.953 [ERROR]     System.FormatException: The input string '449 ;4桁のとき' was not in a correct format.
+2025/02/22 04:53:49.632 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
+2025/02/22 04:53:49.632 [ERROR]     System.FormatException: The input string '449 ;4桁のとき' was not in a correct format.
    at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, ReadOnlySpan`1 value, TypeCode type)
    at System.Int32.Parse(String s)
    at TJAPlayer3.CSkin.t文字列から読み込み(String strAllSettings) in C:\Users\kirei\Documents\GitHub\L-Taiko\src\OpenTaiko\src\Common\CSkin.cs:line 5737
-2025/02/22 02:51:26.953 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
-2025/02/22 02:51:26.955 [ERROR]     System.FormatException: The input string '0.92f' was not in a correct format.
+2025/02/22 04:53:49.632 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
+2025/02/22 04:53:49.635 [ERROR]     System.FormatException: The input string '0.92f' was not in a correct format.
    at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, ReadOnlySpan`1 value, TypeCode type)
    at System.Single.Parse(String s)
    at TJAPlayer3.CSkin.t文字列から読み込み(String strAllSettings) in C:\Users\kirei\Documents\GitHub\L-Taiko\src\OpenTaiko\src\Common\CSkin.cs:line 6467
-2025/02/22 02:51:26.955 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
-2025/02/22 02:51:26.956 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
+2025/02/22 04:53:49.635 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
+2025/02/22 04:53:49.635 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
    at TJAPlayer3.CSkin.t文字列から読み込み(String strAllSettings) in C:\Users\kirei\Documents\GitHub\L-Taiko\src\OpenTaiko\src\Common\CSkin.cs:line 7069
-2025/02/22 02:51:26.956 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
-2025/02/22 02:51:26.956 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
+2025/02/22 04:53:49.635 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
+2025/02/22 04:53:49.636 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
    at TJAPlayer3.CSkin.t文字列から読み込み(String strAllSettings) in C:\Users\kirei\Documents\GitHub\L-Taiko\src\OpenTaiko\src\Common\CSkin.cs:line 7079
-2025/02/22 02:51:26.956 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
-2025/02/22 02:51:26.957 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
+2025/02/22 04:53:49.636 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
+2025/02/22 04:53:49.636 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
    at TJAPlayer3.CSkin.t文字列から読み込み(String strAllSettings) in C:\Users\kirei\Documents\GitHub\L-Taiko\src\OpenTaiko\src\Common\CSkin.cs:line 7089
-2025/02/22 02:51:26.957 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
-2025/02/22 02:51:26.957 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
+2025/02/22 04:53:49.636 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
+2025/02/22 04:53:49.636 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
    at TJAPlayer3.CSkin.t文字列から読み込み(String strAllSettings) in C:\Users\kirei\Documents\GitHub\L-Taiko\src\OpenTaiko\src\Common\CSkin.cs:line 7099
-2025/02/22 02:51:26.957 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
-2025/02/22 02:51:26.958 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
+2025/02/22 04:53:49.636 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
+2025/02/22 04:53:49.637 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
    at TJAPlayer3.CSkin.t文字列から読み込み(String strAllSettings) in C:\Users\kirei\Documents\GitHub\L-Taiko\src\OpenTaiko\src\Common\CSkin.cs:line 7109
-2025/02/22 02:51:26.958 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
-2025/02/22 02:51:26.958 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
+2025/02/22 04:53:49.637 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
+2025/02/22 04:53:49.637 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
    at TJAPlayer3.CSkin.t文字列から読み込み(String strAllSettings) in C:\Users\kirei\Documents\GitHub\L-Taiko\src\OpenTaiko\src\Common\CSkin.cs:line 7249
-2025/02/22 02:51:26.958 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
-2025/02/22 02:51:26.959 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
+2025/02/22 04:53:49.637 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
+2025/02/22 04:53:49.638 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
    at TJAPlayer3.CSkin.t文字列から読み込み(String strAllSettings) in C:\Users\kirei\Documents\GitHub\L-Taiko\src\OpenTaiko\src\Common\CSkin.cs:line 7458
-2025/02/22 02:51:26.959 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
-2025/02/22 02:51:26.959 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
+2025/02/22 04:53:49.638 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
+2025/02/22 04:53:49.638 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
    at TJAPlayer3.CSkin.t文字列から読み込み(String strAllSettings) in C:\Users\kirei\Documents\GitHub\L-Taiko\src\OpenTaiko\src\Common\CSkin.cs:line 7740
-2025/02/22 02:51:26.959 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
-2025/02/22 02:51:26.960 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
+2025/02/22 04:53:49.638 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
+2025/02/22 04:53:49.638 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
    at TJAPlayer3.CSkin.t文字列から読み込み(String strAllSettings) in C:\Users\kirei\Documents\GitHub\L-Taiko\src\OpenTaiko\src\Common\CSkin.cs:line 7750
-2025/02/22 02:51:26.960 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
-2025/02/22 02:51:26.960 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
+2025/02/22 04:53:49.638 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
+2025/02/22 04:53:49.639 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
    at TJAPlayer3.CSkin.t文字列から読み込み(String strAllSettings) in C:\Users\kirei\Documents\GitHub\L-Taiko\src\OpenTaiko\src\Common\CSkin.cs:line 7760
-2025/02/22 02:51:26.960 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
-2025/02/22 02:51:26.961 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
+2025/02/22 04:53:49.639 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
+2025/02/22 04:53:49.639 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
    at TJAPlayer3.CSkin.t文字列から読み込み(String strAllSettings) in C:\Users\kirei\Documents\GitHub\L-Taiko\src\OpenTaiko\src\Common\CSkin.cs:line 7770
-2025/02/22 02:51:26.961 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
-2025/02/22 02:51:26.961 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
+2025/02/22 04:53:49.639 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
+2025/02/22 04:53:49.640 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
    at TJAPlayer3.CSkin.t文字列から読み込み(String strAllSettings) in C:\Users\kirei\Documents\GitHub\L-Taiko\src\OpenTaiko\src\Common\CSkin.cs:line 8682
-2025/02/22 02:51:26.961 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
-2025/02/22 02:51:26.965 [INFO]     スキンの初期化を完了しました。
-2025/02/22 02:51:26.984 [INFO]     タイマの初期化を行います。
-2025/02/22 02:51:26.985 [INFO]         タイマの初期化を完了しました。
-2025/02/22 02:51:26.985 [INFO]     FPSカウンタの初期化を行います。
-2025/02/22 02:51:26.985 [INFO]         FPSカウンタを生成しました。
-2025/02/22 02:51:26.985 [INFO]     文字コンソールの初期化を行います。
-2025/02/22 02:51:26.986 [INFO]         文字コンソールを生成しました。
-2025/02/22 02:51:27.005 [INFO]         文字コンソールを活性化しました。
-2025/02/22 02:51:27.005 [INFO]         文字コンソールの初期化を完了しました。
-2025/02/22 02:51:27.005 [INFO]     DirectInput, MIDI入力の初期化を行います。
-2025/02/22 02:51:27.026 [INFO]         Silk.NET Mouse (via GLFW) を生成しました。
-2025/02/22 02:51:27.029 [INFO]         DirectInput の初期化を完了しました。
-2025/02/22 02:51:27.029 [INFO]     パッドの初期化を行います。
-2025/02/22 02:51:27.029 [INFO]         パッドの初期化を完了しました。
-2025/02/22 02:51:27.029 [INFO]     サウンドデバイスの初期化を行います。
-2025/02/22 02:51:27.034 [INFO]         BASS (WASAPI) の初期化を開始します。
-2025/02/22 02:51:27.037 [INFO]         サウンドデバイス一覧:
-2025/02/22 02:51:27.049 [INFO]         Sound Device #0: No sound: IsDefault=False, isEnabled=True
-2025/02/22 02:51:27.049 [INFO]         Sound Device #1: Default: IsDefault=True, isEnabled=True
-2025/02/22 02:51:27.049 [INFO]         Sound Device #2: 2 - VG271 Z (AMD High Definition Audio Device): IsDefault=False, isEnabled=True
-2025/02/22 02:51:27.049 [INFO]         Sound Device #3: スピーカー (Realtek(R) Audio): IsDefault=False, isEnabled=True
-2025/02/22 02:51:27.049 [INFO]         Sound Device #4: スピーカー (Voice Changer Virtual Audio Device (WDM)): IsDefault=False, isEnabled=True
-2025/02/22 02:51:27.049 [INFO]         Sound Device #5: CABLE Input (VB-Audio Virtual Cable): IsDefault=False, isEnabled=True
-2025/02/22 02:51:27.049 [INFO]         Sound Device #6: VoiceMeeter Aux Input (VB-Audio VoiceMeeter AUX VAIO): IsDefault=False, isEnabled=True
-2025/02/22 02:51:27.049 [INFO]         Sound Device #7: VoiceMeeter Input (VB-Audio VoiceMeeter VAIO): IsDefault=False, isEnabled=True
-2025/02/22 02:51:27.049 [INFO]         Sound Device #8: ヘッドホン (Realtek(R) Audio): IsDefault=True, isEnabled=True
-2025/02/22 02:51:27.149 [INFO]         WASAPI Device #24: ヘッドホン (Realtek(R) Audio): IsDefault=True, defPeriod=0.010666700080037117s, minperiod=0.003000000026077032s, mixchans=2, mixfreq=48000
-2025/02/22 02:51:27.149 [INFO]         Start Bass_Init(device=0(fixed value: no sound), deviceInfo.mixfreq=48000, BASS_DEVICE_DEFAULT, Zero)
-2025/02/22 02:51:27.196 [INFO]         BASS を初期化しました。(WASAPI共有モード, 50ms, 更新間隔10.666700080037117ms)
-2025/02/22 02:51:27.203 [INFO]         BASS_CONFIG_UpdatePeriod=0
-2025/02/22 02:51:27.203 [INFO]         BASS_CONFIG_UpdateThreads=0
-2025/02/22 02:51:27.203 [INFO]         Initializing loudness scanning, song gain control, and sound group level control...
-2025/02/22 02:51:27.212 [INFO]             LoudnessMetadataScanner.StartBackgroundScanning: BS1770GAIN is not available. A background scanning thread will not be started.
-2025/02/22 02:51:27.218 [INFO]         Initialized loudness scanning, song gain control, and sound group level control.
-2025/02/22 02:51:27.220 [INFO]         サウンドデバイスの初期化を完了しました。
-2025/02/22 02:51:27.220 [INFO]     曲リストの初期化を行います。
-2025/02/22 02:51:27.222 [INFO]         曲リストの初期化を完了しました。
+2025/02/22 04:53:49.640 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
+2025/02/22 04:53:49.643 [INFO]     スキンの初期化を完了しました。
+2025/02/22 04:53:49.656 [INFO]     タイマの初期化を行います。
+2025/02/22 04:53:49.657 [INFO]         タイマの初期化を完了しました。
+2025/02/22 04:53:49.657 [INFO]     FPSカウンタの初期化を行います。
+2025/02/22 04:53:49.657 [INFO]         FPSカウンタを生成しました。
+2025/02/22 04:53:49.657 [INFO]     文字コンソールの初期化を行います。
+2025/02/22 04:53:49.657 [INFO]         文字コンソールを生成しました。
+2025/02/22 04:53:49.679 [INFO]         文字コンソールを活性化しました。
+2025/02/22 04:53:49.679 [INFO]         文字コンソールの初期化を完了しました。
+2025/02/22 04:53:49.679 [INFO]     DirectInput, MIDI入力の初期化を行います。
+2025/02/22 04:53:49.695 [INFO]         Silk.NET Mouse (via GLFW) を生成しました。
+2025/02/22 04:53:49.697 [INFO]         DirectInput の初期化を完了しました。
+2025/02/22 04:53:49.697 [INFO]     パッドの初期化を行います。
+2025/02/22 04:53:49.697 [INFO]         パッドの初期化を完了しました。
+2025/02/22 04:53:49.697 [INFO]     サウンドデバイスの初期化を行います。
+2025/02/22 04:53:49.701 [INFO]         BASS (WASAPI) の初期化を開始します。
+2025/02/22 04:53:49.703 [INFO]         サウンドデバイス一覧:
+2025/02/22 04:53:49.709 [INFO]         Sound Device #0: No sound: IsDefault=False, isEnabled=True
+2025/02/22 04:53:49.709 [INFO]         Sound Device #1: Default: IsDefault=True, isEnabled=True
+2025/02/22 04:53:49.709 [INFO]         Sound Device #2: 2 - VG271 Z (AMD High Definition Audio Device): IsDefault=False, isEnabled=True
+2025/02/22 04:53:49.709 [INFO]         Sound Device #3: スピーカー (Realtek(R) Audio): IsDefault=False, isEnabled=True
+2025/02/22 04:53:49.709 [INFO]         Sound Device #4: スピーカー (Voice Changer Virtual Audio Device (WDM)): IsDefault=False, isEnabled=True
+2025/02/22 04:53:49.709 [INFO]         Sound Device #5: CABLE Input (VB-Audio Virtual Cable): IsDefault=False, isEnabled=True
+2025/02/22 04:53:49.709 [INFO]         Sound Device #6: VoiceMeeter Aux Input (VB-Audio VoiceMeeter AUX VAIO): IsDefault=False, isEnabled=True
+2025/02/22 04:53:49.709 [INFO]         Sound Device #7: VoiceMeeter Input (VB-Audio VoiceMeeter VAIO): IsDefault=False, isEnabled=True
+2025/02/22 04:53:49.709 [INFO]         Sound Device #8: ヘッドホン (Realtek(R) Audio): IsDefault=True, isEnabled=True
+2025/02/22 04:53:49.796 [INFO]         WASAPI Device #24: ヘッドホン (Realtek(R) Audio): IsDefault=True, defPeriod=0.010666700080037117s, minperiod=0.003000000026077032s, mixchans=2, mixfreq=48000
+2025/02/22 04:53:49.796 [INFO]         Start Bass_Init(device=0(fixed value: no sound), deviceInfo.mixfreq=48000, BASS_DEVICE_DEFAULT, Zero)
+2025/02/22 04:53:49.833 [INFO]         BASS を初期化しました。(WASAPI共有モード, 50ms, 更新間隔10.666700080037117ms)
+2025/02/22 04:53:49.838 [INFO]         BASS_CONFIG_UpdatePeriod=0
+2025/02/22 04:53:49.838 [INFO]         BASS_CONFIG_UpdateThreads=0
+2025/02/22 04:53:49.838 [INFO]         Initializing loudness scanning, song gain control, and sound group level control...
+2025/02/22 04:53:49.845 [INFO]             LoudnessMetadataScanner.StartBackgroundScanning: BS1770GAIN is not available. A background scanning thread will not be started.
+2025/02/22 04:53:49.851 [INFO]         Initialized loudness scanning, song gain control, and sound group level control.
+2025/02/22 04:53:49.852 [INFO]         サウンドデバイスの初期化を完了しました。
+2025/02/22 04:53:49.852 [INFO]     曲リストの初期化を行います。
+2025/02/22 04:53:49.854 [INFO]         曲リストの初期化を完了しました。
 SORT MENU: Cacheにヒットせず。(cachesize=1)
 絶対パス: Cacheにヒットせず。(cachesize=2)
 曲名: Cacheにヒットせず。(cachesize=3)
@@ -159,224 +159,224 @@ UltraRaid_: Cacheにヒットせず。(cachesize=1)
 3P: Cacheにヒットせず。(cachesize=1)
 4P: Cacheにヒットせず。(cachesize=1)
 5P: Cacheにヒットせず。(cachesize=1)
-2025/02/22 02:51:27.358 [INFO]     プラグインの検索と生成を行います。
-2025/02/22 02:51:27.359 [WARNING]         The plugin folder does not exist. (C:\Users\kirei\Documents\GitHub\L-Taiko\build\Plugins\)
-2025/02/22 02:51:27.359 [INFO]         プラグインの検索と生成を完了しました。
-2025/02/22 02:51:27.365 [INFO]     アプリケーションの初期化を完了しました。
-2025/02/22 02:51:27.365 [INFO]     ----------------------
-2025/02/22 02:51:27.365 [INFO]     ■ 起動
-2025/02/22 02:51:27.365 [INFO]     起動ステージを活性化します。
-2025/02/22 02:51:27.367 [INFO]         起動ステージの活性化を完了しました。
-2025/02/22 02:51:27.391 [INFO]     0) システムサウンドを構築します。
-2025/02/22 02:51:27.391 [WARNING]     ファイルが存在しません。: Sounds\BGM\Setup.ogg
-2025/02/22 02:51:27.399 [INFO]     システムサウンドを読み込みました。(Sounds\Move.wav)
-2025/02/22 02:51:27.399 [INFO]     システムサウンドを読み込みました。(Sounds\Decide.wav)
-2025/02/22 02:51:27.400 [INFO]     システムサウンドを読み込みました。(Sounds\Change.wav)
-2025/02/22 02:51:27.400 [INFO]     システムサウンドを読み込みました。(Sounds\Cancel.wav)
-2025/02/22 02:51:27.400 [WARNING]     ファイルが存在しません。: Sounds\Audience.ogg
-2025/02/22 02:51:27.400 [INFO]     システムサウンドを読み込みました。(Sounds\Audience.ogg)
-2025/02/22 02:51:27.400 [WARNING]     ファイルが存在しません。: Sounds\Game start.ogg
-2025/02/22 02:51:27.400 [INFO]     システムサウンドを読み込みました。(Sounds\Game start.ogg)
-2025/02/22 02:51:27.400 [WARNING]     ファイルが存在しません。: Sounds\Full combo.ogg
-2025/02/22 02:51:27.400 [INFO]     システムサウンドを読み込みました。(Sounds\Full combo.ogg)
-2025/02/22 02:51:27.403 [INFO]     システムサウンドを読み込みました。(Sounds\BGM\Title.ogg)
-2025/02/22 02:51:27.405 [INFO]     システムサウンドを読み込みました。(Sounds\BGM\SongSelect.ogg)
-2025/02/22 02:51:27.405 [INFO]     システムサウンドを読み込みました。(Sounds\balloon.wav)
-2025/02/22 02:51:27.405 [INFO]     システムサウンドを読み込みました。(Sounds\SongDecide.wav)
-2025/02/22 02:51:27.407 [INFO]     システムサウンドを読み込みました。(Sounds\BGM\Result_In.ogg)
-2025/02/22 02:51:27.407 [WARNING]     ファイルが存在しません。: Sounds\Resume.ogg
-2025/02/22 02:51:27.407 [INFO]     システムサウンドを読み込みました。(Sounds\Resume.ogg)
-2025/02/22 02:51:27.407 [WARNING]     ファイルが存在しません。: Sounds\Pause.ogg
-2025/02/22 02:51:27.407 [INFO]     システムサウンドを読み込みました。(Sounds\Pause.ogg)
-2025/02/22 02:51:27.407 [WARNING]     ファイルが存在しません。: Sounds\Scroll.ogg
-2025/02/22 02:51:27.408 [INFO]     システムサウンドを読み込みました。(Sounds\Scroll.ogg)
-2025/02/22 02:51:27.408 [WARNING]     ファイルが存在しません。: Sounds\Jump Point.ogg
-2025/02/22 02:51:27.408 [INFO]     システムサウンドを読み込みました。(Sounds\Jump Point.ogg)
-2025/02/22 02:51:27.409 [INFO]     システムサウンドを読み込みました。(Sounds\Traning Skip.ogg)
-2025/02/22 02:51:27.409 [INFO] 起動所要時間: 00:00:00.0183841
-2025/02/22 02:51:27.511 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\Overlay.png)
-2025/02/22 02:51:27.572 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\1P_NamePlate.png)
-2025/02/22 02:51:27.572 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\2P_NamePlate.png)
-2025/02/22 02:51:27.595 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\9_NamePlateEffect\Title\0\Big.png)
-2025/02/22 02:51:27.595 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\9_NamePlateEffect\Title\0\Small.png)
-2025/02/22 02:51:27.595 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\9_NamePlateEffect\Title\0\Tiny.png)
-2025/02/22 02:51:27.879 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\9_NamePlateEffect\Title\3\Big.png)
-2025/02/22 02:51:27.880 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\9_NamePlateEffect\Title\3\Small.png)
-2025/02/22 02:51:27.880 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\9_NamePlateEffect\Title\3\Tiny.png)
-2025/02/22 02:51:28.382 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\9_NamePlateEffect\Title\4\Big.png)
-2025/02/22 02:51:28.383 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\9_NamePlateEffect\Title\4\Small.png)
-2025/02/22 02:51:28.383 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\9_NamePlateEffect\Title\4\Tiny.png)
-2025/02/22 02:51:29.044 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\1_Title\ModeSelect_Bar_Chara_8.png)
-2025/02/22 02:51:29.044 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\1_Title\ModeSelect_Bar_Chara_9.png)
-2025/02/22 02:51:29.044 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\1_Title\ModeSelect_Bar_Chara_10.png)
-2025/02/22 02:51:29.044 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\1_Title\ModeSelect_Bar_Chara_11.png)
-2025/02/22 02:51:29.044 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\1_Title\ModeSelect_Bar_Chara_12.png)
-2025/02/22 02:51:29.044 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\1_Title\ModeSelect_Bar_Chara_13.png)
-2025/02/22 02:51:29.185 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Footer.png)
-2025/02/22 02:51:29.197 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Level.png)
-2025/02/22 02:51:29.230 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Bar_Center.png)
-2025/02/22 02:51:29.230 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Lock.png)
-2025/02/22 02:51:29.255 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Frame_Score_Dan.png)
-2025/02/22 02:51:29.255 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Tower_Side.png)
-2025/02/22 02:51:29.255 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Frame_Box.png)
-2025/02/22 02:51:29.255 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Frame_BackBox.png)
-2025/02/22 02:51:29.255 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Frame_Random.png)
-2025/02/22 02:51:29.260 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Bar_Genre_Locked.png)
-2025/02/22 02:51:29.279 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Bar_Genre_RecentryPlaySong.png)
-2025/02/22 02:51:29.305 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Level_Number_Big.png)
-2025/02/22 02:51:29.306 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Level_Number_Big_Colored.png)
-2025/02/22 02:51:29.306 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Level_Number_Colored.png)
-2025/02/22 02:51:29.306 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Level_Number_Big_Icon.png)
-2025/02/22 02:51:29.306 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Level_Number_Icon.png)
-2025/02/22 02:51:29.306 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Bpm_Number.png)
-2025/02/22 02:51:29.358 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Explicit.png)
-2025/02/22 02:51:29.358 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Movie.png)
-2025/02/22 02:51:29.391 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Difficulty_Cymbol.png)
-2025/02/22 02:51:29.466 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\ScoreWindow_0.png)
-2025/02/22 02:51:29.466 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\ScoreWindow_1.png)
-2025/02/22 02:51:29.466 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\ScoreWindow_2.png)
-2025/02/22 02:51:29.466 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\ScoreWindow_3.png)
-2025/02/22 02:51:29.467 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\ScoreWindow_4.png)
-2025/02/22 02:51:29.467 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\ScoreWindow_5.png)
-2025/02/22 02:51:29.467 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\ScoreWindow_6.png)
-2025/02/22 02:51:29.467 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\ScoreWindow_Text.png)
-2025/02/22 02:51:31.005 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Song_Panel\Song_Panel_Locked_Song.png)
-2025/02/22 02:51:31.005 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Song_Panel\Song_Panel_Locked_Asset.png)
-2025/02/22 02:51:31.026 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Difficulty_Select\Difficulty_Number_Colored.png)
-2025/02/22 02:51:31.026 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Difficulty_Select\Difficulty_Number_Icon.png)
-2025/02/22 02:51:32.798 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\Notes_Konga.png)
-2025/02/22 02:51:33.120 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\6_Taiko\1P_PlayerNumber.png)
-2025/02/22 02:51:33.120 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\6_Taiko\2P_PlayerNumber.png)
-2025/02/22 02:51:33.121 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\6_Taiko\3P_PlayerNumber.png)
-2025/02/22 02:51:33.121 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\6_Taiko\4P_PlayerNumber.png)
-2025/02/22 02:51:33.121 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\6_Taiko\5P_PlayerNumber.png)
-2025/02/22 02:51:33.151 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\6_Taiko\Don_Konga.png)
-2025/02/22 02:51:33.152 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\6_Taiko\Ka_Konga.png)
-2025/02/22 02:51:33.168 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Easy_Back.png)
-2025/02/22 02:51:33.168 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Easy_Back_Flash.png)
-2025/02/22 02:51:33.172 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Normal_Back.png)
-2025/02/22 02:51:33.172 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Normal_Back_Flash.png)
-2025/02/22 02:51:33.176 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Hard_Back.png)
-2025/02/22 02:51:33.176 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Hard_Back_Flash.png)
-2025/02/22 02:51:33.180 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Oni_Back.png)
-2025/02/22 02:51:33.180 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Oni_Back_Flash.png)
-2025/02/22 02:51:33.184 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Edit_Back.png)
-2025/02/22 02:51:33.184 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Edit_Back_Flash.png)
-2025/02/22 02:51:33.185 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Tower.png)
-2025/02/22 02:51:33.185 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Tower_Back.png)
-2025/02/22 02:51:33.185 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Tower_Back_Flash.png)
-2025/02/22 02:51:33.185 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Dan.png)
-2025/02/22 02:51:33.185 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Dan_Back.png)
-2025/02/22 02:51:33.185 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Dan_Back_Flash.png)
-2025/02/22 02:51:33.185 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Shin.png)
-2025/02/22 02:51:33.185 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Shin_Back.png)
-2025/02/22 02:51:33.185 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Shin_Back_Flash.png)
-2025/02/22 02:51:33.231 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\6_Taiko\Combo_Huge.png)
-2025/02/22 02:51:33.247 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\6_Taiko\Combo_Guide0.png)
-2025/02/22 02:51:33.247 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\6_Taiko\Combo_Guide1.png)
-2025/02/22 02:51:33.248 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\6_Taiko\Combo_Guide2.png)
-2025/02/22 02:51:35.012 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\12_Lane\Clap.png)
-2025/02/22 02:51:35.083 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\15_Failed\Game.png)
-2025/02/22 02:51:35.083 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\15_Failed\Stage.png)
-2025/02/22 02:51:35.139 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\17_DanC\Gauge_Flush.png)
-2025/02/22 02:51:35.183 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\17_DanC\ExamUnit.png)
-2025/02/22 02:51:35.210 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\00 - None\Chara.png)
-2025/02/22 02:51:35.210 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\00 - None\Render.png)
-2025/02/22 02:51:35.219 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\01 - Template\Render.png)
-2025/02/22 02:51:35.227 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Arashi\Render.png)
-2025/02/22 02:51:35.231 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\D01 - Dashy\Render.png)
-2025/02/22 02:51:35.240 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\D02 - Dashy Lost\Render.png)
-2025/02/22 02:51:35.244 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Fox Kabuki Kid\Render.png)
-2025/02/22 02:51:35.253 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Fuuga\Render.png)
-2025/02/22 02:51:35.261 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Fuuga and Mirai\Render.png)
-2025/02/22 02:51:35.270 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Hyottoko Kabuki Kid\Render.png)
-2025/02/22 02:51:35.280 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Lantern Eel\Render.png)
-2025/02/22 02:51:35.289 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Maou\Render.png)
-2025/02/22 02:51:35.298 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Mirai\Render.png)
-2025/02/22 02:51:35.306 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Neko and Shaxy\Render.png)
-2025/02/22 02:51:35.310 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Okame Kabuki Kid\Render.png)
-2025/02/22 02:51:35.319 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Princess Soprano\Render.png)
-2025/02/22 02:51:35.328 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Princess Soprano and Ralco\Render.png)
-2025/02/22 02:51:35.337 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Ralco\Render.png)
-2025/02/22 02:51:35.347 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Tatsu-Don\Render.png)
-2025/02/22 02:51:35.348 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\19_Training\Down.png)
-2025/02/22 02:51:36.240 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\6_Result\Dan.png)
-2025/02/22 02:51:36.375 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\6_Result\Speech_Bubble_V2_Left.png)
-2025/02/22 02:51:36.376 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\6_Result\Speech_Bubble_V2_Right.png)
-2025/02/22 02:51:36.376 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\6_Result\Speech_Bubble_V2_4P_5P.png)
-2025/02/22 02:51:36.705 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\6_Result\Crown\Crown_0.png)
-2025/02/22 02:51:36.705 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\6_Result\Crown\Crown_1.png)
-2025/02/22 02:51:36.705 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\6_Result\Crown\Crown_2.png)
-2025/02/22 02:51:37.230 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\10_Heya\Render_Field.png)
-2025/02/22 02:51:57.783 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\AI-san\Render.png)
-2025/02/22 02:51:57.783 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\AI-san\Result_Clear_1P.png)
-2025/02/22 02:51:57.783 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\AI-san\Result_Failed_1P.png)
-2025/02/22 02:51:57.784 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\AI-san\Result_Clear_2P.png)
-2025/02/22 02:51:57.784 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\AI-san\Result_Failed_2P.png)
-2025/02/22 02:51:57.793 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\Don-chan\Render.png)
-2025/02/22 02:51:57.793 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\Don-chan\Result_Clear_1P.png)
-2025/02/22 02:51:57.793 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\Don-chan\Result_Failed_1P.png)
-2025/02/22 02:51:57.793 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\Don-chan\Result_Clear_2P.png)
-2025/02/22 02:51:57.793 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\Don-chan\Result_Failed_2P.png)
-2025/02/22 02:51:57.862 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\test\Result_Clear_1P.png)
-2025/02/22 02:51:57.862 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\test\Result_Failed_1P.png)
-2025/02/22 02:51:57.862 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\test\Result_Clear_2P.png)
-2025/02/22 02:51:57.862 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\test\Result_Failed_2P.png)
-2025/02/22 02:51:57.911 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\段位達人\Result_Clear_1P.png)
-2025/02/22 02:51:57.911 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\段位達人\Result_Failed_1P.png)
-2025/02/22 02:51:57.911 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\段位達人\Result_Clear_2P.png)
-2025/02/22 02:51:57.911 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\段位達人\Result_Failed_2P.png)
-2025/02/22 02:51:58.031 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\11_Modals\0_half_4P.png)
-2025/02/22 02:51:58.032 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\11_Modals\0_half_5P.png)
-2025/02/22 02:51:58.155 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\11_Modals\1_half_4P.png)
-2025/02/22 02:51:58.155 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\11_Modals\1_half_5P.png)
-2025/02/22 02:51:58.259 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\11_Modals\2_half_4P.png)
-2025/02/22 02:51:58.259 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\11_Modals\2_half_5P.png)
-2025/02/22 02:51:58.359 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\11_Modals\3_half_4P.png)
-2025/02/22 02:51:58.360 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\11_Modals\3_half_5P.png)
-2025/02/22 02:51:58.466 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\11_Modals\4_half_4P.png)
-2025/02/22 02:51:58.466 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\11_Modals\4_half_5P.png)
-2025/02/22 02:51:58.940 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\Screen option panels.png)
-2025/02/22 02:51:58.940 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\Screen option panels.png)
-2025/02/22 02:51:58.967 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_preimage panel.png)
-2025/02/22 02:51:58.967 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_sensor.png)
-2025/02/22 02:51:58.967 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\PreImageDefault.png)
-2025/02/22 02:51:58.968 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_information_BG.png)
-2025/02/22 02:51:58.968 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_information.png)
-2025/02/22 02:51:58.968 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_information2.png)
-2025/02/22 02:51:59.084 [WARNING] テクスチャファイルが見つかりませんでした。()
-2025/02/22 02:51:59.085 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Failed.ogg
-2025/02/22 02:51:59.086 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Tower\Tower_Dropout.ogg
-2025/02/22 02:51:59.086 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Tower\Tower_TopReached_Pass.ogg
-2025/02/22 02:51:59.086 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Tower\Tower_TopReached_FullCombo.ogg
-2025/02/22 02:51:59.086 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Tower\Tower_TopReached_Perfect.ogg
-2025/02/22 02:51:59.086 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Dan\Dan_Fail.ogg
-2025/02/22 02:51:59.086 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Dan\Dan_Red_Pass.ogg
-2025/02/22 02:51:59.086 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Dan\Dan_Red_FullCombo.ogg
-2025/02/22 02:51:59.086 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Dan\Dan_Red_Perfect.ogg
-2025/02/22 02:51:59.086 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Dan\Dan_Gold_Pass.ogg
-2025/02/22 02:51:59.087 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Dan\Dan_Gold_FullCombo.ogg
-2025/02/22 02:51:59.087 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Dan\Dan_Gold_Perfect.ogg
-2025/02/22 02:51:59.091 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Clear.ogg
-2025/02/22 02:51:59.091 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Failed.ogg
-2025/02/22 02:51:59.145 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\Screen option panels.png)
-2025/02/22 02:53:41.169 [INFO] 起動ステージを非活性化します。
-2025/02/22 02:53:41.170 [INFO]         起動ステージの非活性化を完了しました。
-2025/02/22 02:53:41.170 [INFO]     ----------------------
-2025/02/22 02:53:41.170 [INFO]     ■ タイトル
-2025/02/22 02:53:41.170 [INFO]     タイトルステージを活性化します。
-2025/02/22 02:53:41.207 [WARNING]         ファイルが存在しません。: Sounds\Entry.ogg
-2025/02/22 02:53:41.209 [INFO]         タイトルステージの活性化を完了しました。
-2025/02/22 02:53:41.233 [INFO]     ★曲データ検索スレッドを起動しました。
-2025/02/22 02:53:41.248 [INFO]     enum2) 曲データを検索します。
-2025/02/22 02:53:41.249 [INFO]     検索パス: C:\Users\kirei\Documents\GitHub\L-Taiko\build\Songs\
-2025/02/22 02:53:41.277 [INFO]     曲データの検索を完了しました。[20曲20スコア]
-2025/02/22 02:53:41.277 [INFO] enum5) 曲リストへの後処理を適用します。
-2025/02/22 02:53:41.280 [INFO]     曲リストへの後処理を完了しました。
-2025/02/22 02:53:41.280 [INFO] enum7) 曲データの情報を songlist.db へ出力します。
-2025/02/22 02:53:41.288 [INFO]     songlist.db への出力を完了しました。
-2025/02/22 02:53:41.288 [INFO] 曲探索所要時間: 00:00:00.0535327
-2025/02/22 02:54:13.164 [WARNING] ファイルが存在しません。: C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\Don-chan\Sounds\Title\Sanka.wav
+2025/02/22 04:53:49.982 [INFO]     プラグインの検索と生成を行います。
+2025/02/22 04:53:49.983 [WARNING]         The plugin folder does not exist. (C:\Users\kirei\Documents\GitHub\L-Taiko\build\Plugins\)
+2025/02/22 04:53:49.983 [INFO]         プラグインの検索と生成を完了しました。
+2025/02/22 04:53:49.990 [INFO]     アプリケーションの初期化を完了しました。
+2025/02/22 04:53:49.990 [INFO]     ----------------------
+2025/02/22 04:53:49.990 [INFO]     ■ 起動
+2025/02/22 04:53:49.990 [INFO]     起動ステージを活性化します。
+2025/02/22 04:53:49.993 [INFO]         起動ステージの活性化を完了しました。
+2025/02/22 04:53:50.023 [INFO]     0) システムサウンドを構築します。
+2025/02/22 04:53:50.023 [WARNING]     ファイルが存在しません。: Sounds\BGM\Setup.ogg
+2025/02/22 04:53:50.032 [INFO]     システムサウンドを読み込みました。(Sounds\Move.wav)
+2025/02/22 04:53:50.033 [INFO]     システムサウンドを読み込みました。(Sounds\Decide.wav)
+2025/02/22 04:53:50.033 [INFO]     システムサウンドを読み込みました。(Sounds\Change.wav)
+2025/02/22 04:53:50.034 [INFO]     システムサウンドを読み込みました。(Sounds\Cancel.wav)
+2025/02/22 04:53:50.034 [WARNING]     ファイルが存在しません。: Sounds\Audience.ogg
+2025/02/22 04:53:50.034 [INFO]     システムサウンドを読み込みました。(Sounds\Audience.ogg)
+2025/02/22 04:53:50.034 [WARNING]     ファイルが存在しません。: Sounds\Game start.ogg
+2025/02/22 04:53:50.034 [INFO]     システムサウンドを読み込みました。(Sounds\Game start.ogg)
+2025/02/22 04:53:50.034 [WARNING]     ファイルが存在しません。: Sounds\Full combo.ogg
+2025/02/22 04:53:50.035 [INFO]     システムサウンドを読み込みました。(Sounds\Full combo.ogg)
+2025/02/22 04:53:50.038 [INFO]     システムサウンドを読み込みました。(Sounds\BGM\Title.ogg)
+2025/02/22 04:53:50.040 [INFO]     システムサウンドを読み込みました。(Sounds\BGM\SongSelect.ogg)
+2025/02/22 04:53:50.041 [INFO]     システムサウンドを読み込みました。(Sounds\balloon.wav)
+2025/02/22 04:53:50.042 [INFO]     システムサウンドを読み込みました。(Sounds\SongDecide.wav)
+2025/02/22 04:53:50.044 [INFO]     システムサウンドを読み込みました。(Sounds\BGM\Result_In.ogg)
+2025/02/22 04:53:50.044 [WARNING]     ファイルが存在しません。: Sounds\Resume.ogg
+2025/02/22 04:53:50.044 [INFO]     システムサウンドを読み込みました。(Sounds\Resume.ogg)
+2025/02/22 04:53:50.044 [WARNING]     ファイルが存在しません。: Sounds\Pause.ogg
+2025/02/22 04:53:50.044 [INFO]     システムサウンドを読み込みました。(Sounds\Pause.ogg)
+2025/02/22 04:53:50.044 [WARNING]     ファイルが存在しません。: Sounds\Scroll.ogg
+2025/02/22 04:53:50.044 [INFO]     システムサウンドを読み込みました。(Sounds\Scroll.ogg)
+2025/02/22 04:53:50.044 [WARNING]     ファイルが存在しません。: Sounds\Jump Point.ogg
+2025/02/22 04:53:50.044 [INFO]     システムサウンドを読み込みました。(Sounds\Jump Point.ogg)
+2025/02/22 04:53:50.046 [INFO]     システムサウンドを読み込みました。(Sounds\Traning Skip.ogg)
+2025/02/22 04:53:50.046 [INFO] 起動所要時間: 00:00:00.0235890
+2025/02/22 04:53:50.180 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\Overlay.png)
+2025/02/22 04:53:50.248 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\1P_NamePlate.png)
+2025/02/22 04:53:50.248 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\2P_NamePlate.png)
+2025/02/22 04:53:50.271 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\9_NamePlateEffect\Title\0\Big.png)
+2025/02/22 04:53:50.271 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\9_NamePlateEffect\Title\0\Small.png)
+2025/02/22 04:53:50.271 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\9_NamePlateEffect\Title\0\Tiny.png)
+2025/02/22 04:53:50.566 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\9_NamePlateEffect\Title\3\Big.png)
+2025/02/22 04:53:50.566 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\9_NamePlateEffect\Title\3\Small.png)
+2025/02/22 04:53:50.566 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\9_NamePlateEffect\Title\3\Tiny.png)
+2025/02/22 04:53:51.079 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\9_NamePlateEffect\Title\4\Big.png)
+2025/02/22 04:53:51.079 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\9_NamePlateEffect\Title\4\Small.png)
+2025/02/22 04:53:51.079 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\9_NamePlateEffect\Title\4\Tiny.png)
+2025/02/22 04:53:51.819 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\1_Title\ModeSelect_Bar_Chara_8.png)
+2025/02/22 04:53:51.820 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\1_Title\ModeSelect_Bar_Chara_9.png)
+2025/02/22 04:53:51.820 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\1_Title\ModeSelect_Bar_Chara_10.png)
+2025/02/22 04:53:51.820 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\1_Title\ModeSelect_Bar_Chara_11.png)
+2025/02/22 04:53:51.820 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\1_Title\ModeSelect_Bar_Chara_12.png)
+2025/02/22 04:53:51.820 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\1_Title\ModeSelect_Bar_Chara_13.png)
+2025/02/22 04:53:51.932 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Footer.png)
+2025/02/22 04:53:51.943 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Level.png)
+2025/02/22 04:53:51.954 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Bar_Center.png)
+2025/02/22 04:53:51.954 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Lock.png)
+2025/02/22 04:53:51.978 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Frame_Score_Dan.png)
+2025/02/22 04:53:51.978 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Tower_Side.png)
+2025/02/22 04:53:51.978 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Frame_Box.png)
+2025/02/22 04:53:51.978 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Frame_BackBox.png)
+2025/02/22 04:53:51.978 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Frame_Random.png)
+2025/02/22 04:53:51.983 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Bar_Genre_Locked.png)
+2025/02/22 04:53:51.988 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Bar_Genre_RecentryPlaySong.png)
+2025/02/22 04:53:52.019 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Level_Number_Big.png)
+2025/02/22 04:53:52.019 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Level_Number_Big_Colored.png)
+2025/02/22 04:53:52.019 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Level_Number_Colored.png)
+2025/02/22 04:53:52.019 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Level_Number_Big_Icon.png)
+2025/02/22 04:53:52.019 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Level_Number_Icon.png)
+2025/02/22 04:53:52.019 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Bpm_Number.png)
+2025/02/22 04:53:52.063 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Explicit.png)
+2025/02/22 04:53:52.064 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Movie.png)
+2025/02/22 04:53:52.096 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Difficulty_Cymbol.png)
+2025/02/22 04:53:52.169 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\ScoreWindow_0.png)
+2025/02/22 04:53:52.169 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\ScoreWindow_1.png)
+2025/02/22 04:53:52.169 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\ScoreWindow_2.png)
+2025/02/22 04:53:52.169 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\ScoreWindow_3.png)
+2025/02/22 04:53:52.169 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\ScoreWindow_4.png)
+2025/02/22 04:53:52.169 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\ScoreWindow_5.png)
+2025/02/22 04:53:52.169 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\ScoreWindow_6.png)
+2025/02/22 04:53:52.169 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\ScoreWindow_Text.png)
+2025/02/22 04:53:53.445 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Song_Panel\Song_Panel_Locked_Song.png)
+2025/02/22 04:53:53.445 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Song_Panel\Song_Panel_Locked_Asset.png)
+2025/02/22 04:53:53.462 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Difficulty_Select\Difficulty_Number_Colored.png)
+2025/02/22 04:53:53.463 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\Difficulty_Select\Difficulty_Number_Icon.png)
+2025/02/22 04:53:54.965 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\Notes_Konga.png)
+2025/02/22 04:53:55.270 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\6_Taiko\1P_PlayerNumber.png)
+2025/02/22 04:53:55.270 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\6_Taiko\2P_PlayerNumber.png)
+2025/02/22 04:53:55.270 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\6_Taiko\3P_PlayerNumber.png)
+2025/02/22 04:53:55.270 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\6_Taiko\4P_PlayerNumber.png)
+2025/02/22 04:53:55.271 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\6_Taiko\5P_PlayerNumber.png)
+2025/02/22 04:53:55.300 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\6_Taiko\Don_Konga.png)
+2025/02/22 04:53:55.300 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\6_Taiko\Ka_Konga.png)
+2025/02/22 04:53:55.316 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Easy_Back.png)
+2025/02/22 04:53:55.317 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Easy_Back_Flash.png)
+2025/02/22 04:53:55.320 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Normal_Back.png)
+2025/02/22 04:53:55.321 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Normal_Back_Flash.png)
+2025/02/22 04:53:55.325 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Hard_Back.png)
+2025/02/22 04:53:55.325 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Hard_Back_Flash.png)
+2025/02/22 04:53:55.329 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Oni_Back.png)
+2025/02/22 04:53:55.329 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Oni_Back_Flash.png)
+2025/02/22 04:53:55.333 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Edit_Back.png)
+2025/02/22 04:53:55.333 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Edit_Back_Flash.png)
+2025/02/22 04:53:55.333 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Tower.png)
+2025/02/22 04:53:55.333 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Tower_Back.png)
+2025/02/22 04:53:55.334 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Tower_Back_Flash.png)
+2025/02/22 04:53:55.334 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Dan.png)
+2025/02/22 04:53:55.334 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Dan_Back.png)
+2025/02/22 04:53:55.334 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Dan_Back_Flash.png)
+2025/02/22 04:53:55.334 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Shin.png)
+2025/02/22 04:53:55.334 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Shin_Back.png)
+2025/02/22 04:53:55.334 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\4_CourseSymbol\Shin_Back_Flash.png)
+2025/02/22 04:53:55.375 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\6_Taiko\Combo_Huge.png)
+2025/02/22 04:53:55.392 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\6_Taiko\Combo_Guide0.png)
+2025/02/22 04:53:55.392 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\6_Taiko\Combo_Guide1.png)
+2025/02/22 04:53:55.392 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\6_Taiko\Combo_Guide2.png)
+2025/02/22 04:53:57.152 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\12_Lane\Clap.png)
+2025/02/22 04:53:57.216 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\15_Failed\Game.png)
+2025/02/22 04:53:57.217 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\15_Failed\Stage.png)
+2025/02/22 04:53:57.267 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\17_DanC\Gauge_Flush.png)
+2025/02/22 04:53:57.308 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\17_DanC\ExamUnit.png)
+2025/02/22 04:53:57.334 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\00 - None\Chara.png)
+2025/02/22 04:53:57.335 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\00 - None\Render.png)
+2025/02/22 04:53:57.343 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\01 - Template\Render.png)
+2025/02/22 04:53:57.351 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Arashi\Render.png)
+2025/02/22 04:53:57.359 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\D01 - Dashy\Render.png)
+2025/02/22 04:53:57.367 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\D02 - Dashy Lost\Render.png)
+2025/02/22 04:53:57.376 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Fox Kabuki Kid\Render.png)
+2025/02/22 04:53:57.384 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Fuuga\Render.png)
+2025/02/22 04:53:57.392 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Fuuga and Mirai\Render.png)
+2025/02/22 04:53:57.397 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Hyottoko Kabuki Kid\Render.png)
+2025/02/22 04:53:57.406 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Lantern Eel\Render.png)
+2025/02/22 04:53:57.413 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Maou\Render.png)
+2025/02/22 04:53:57.422 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Mirai\Render.png)
+2025/02/22 04:53:57.426 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Neko and Shaxy\Render.png)
+2025/02/22 04:53:57.434 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Okame Kabuki Kid\Render.png)
+2025/02/22 04:53:57.442 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Princess Soprano\Render.png)
+2025/02/22 04:53:57.451 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Princess Soprano and Ralco\Render.png)
+2025/02/22 04:53:57.459 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Ralco\Render.png)
+2025/02/22 04:53:57.468 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\PuchiChara\Tatsu-Don\Render.png)
+2025/02/22 04:53:57.469 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_Game\19_Training\Down.png)
+2025/02/22 04:53:58.392 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\6_Result\Dan.png)
+2025/02/22 04:53:58.543 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\6_Result\Speech_Bubble_V2_Left.png)
+2025/02/22 04:53:58.544 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\6_Result\Speech_Bubble_V2_Right.png)
+2025/02/22 04:53:58.544 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\6_Result\Speech_Bubble_V2_4P_5P.png)
+2025/02/22 04:53:58.913 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\6_Result\Crown\Crown_0.png)
+2025/02/22 04:53:58.913 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\6_Result\Crown\Crown_1.png)
+2025/02/22 04:53:58.913 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\6_Result\Crown\Crown_2.png)
+2025/02/22 04:53:59.364 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\10_Heya\Render_Field.png)
+2025/02/22 04:54:14.795 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\AI-san\Render.png)
+2025/02/22 04:54:14.795 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\AI-san\Result_Clear_1P.png)
+2025/02/22 04:54:14.795 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\AI-san\Result_Failed_1P.png)
+2025/02/22 04:54:14.795 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\AI-san\Result_Clear_2P.png)
+2025/02/22 04:54:14.795 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\AI-san\Result_Failed_2P.png)
+2025/02/22 04:54:14.804 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\Don-chan\Render.png)
+2025/02/22 04:54:14.804 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\Don-chan\Result_Clear_1P.png)
+2025/02/22 04:54:14.804 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\Don-chan\Result_Failed_1P.png)
+2025/02/22 04:54:14.804 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\Don-chan\Result_Clear_2P.png)
+2025/02/22 04:54:14.804 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\Don-chan\Result_Failed_2P.png)
+2025/02/22 04:54:14.861 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\test\Result_Clear_1P.png)
+2025/02/22 04:54:14.861 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\test\Result_Failed_1P.png)
+2025/02/22 04:54:14.861 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\test\Result_Clear_2P.png)
+2025/02/22 04:54:14.861 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\test\Result_Failed_2P.png)
+2025/02/22 04:54:14.902 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\段位達人\Result_Clear_1P.png)
+2025/02/22 04:54:14.902 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\段位達人\Result_Failed_1P.png)
+2025/02/22 04:54:14.902 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\段位達人\Result_Clear_2P.png)
+2025/02/22 04:54:14.902 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\段位達人\Result_Failed_2P.png)
+2025/02/22 04:54:14.985 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\11_Modals\0_half_4P.png)
+2025/02/22 04:54:14.986 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\11_Modals\0_half_5P.png)
+2025/02/22 04:54:15.073 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\11_Modals\1_half_4P.png)
+2025/02/22 04:54:15.073 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\11_Modals\1_half_5P.png)
+2025/02/22 04:54:15.155 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\11_Modals\2_half_4P.png)
+2025/02/22 04:54:15.155 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\11_Modals\2_half_5P.png)
+2025/02/22 04:54:15.238 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\11_Modals\3_half_4P.png)
+2025/02/22 04:54:15.238 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\11_Modals\3_half_5P.png)
+2025/02/22 04:54:15.322 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\11_Modals\4_half_4P.png)
+2025/02/22 04:54:15.322 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\11_Modals\4_half_5P.png)
+2025/02/22 04:54:15.699 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\Screen option panels.png)
+2025/02/22 04:54:15.699 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\Screen option panels.png)
+2025/02/22 04:54:15.720 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_preimage panel.png)
+2025/02/22 04:54:15.720 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_sensor.png)
+2025/02/22 04:54:15.720 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\3_SongSelect\PreImageDefault.png)
+2025/02/22 04:54:15.721 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_information_BG.png)
+2025/02/22 04:54:15.721 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_information.png)
+2025/02/22 04:54:15.721 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\5_information2.png)
+2025/02/22 04:54:15.808 [WARNING] テクスチャファイルが見つかりませんでした。()
+2025/02/22 04:54:15.809 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Failed.ogg
+2025/02/22 04:54:15.810 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Tower\Tower_Dropout.ogg
+2025/02/22 04:54:15.810 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Tower\Tower_TopReached_Pass.ogg
+2025/02/22 04:54:15.810 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Tower\Tower_TopReached_FullCombo.ogg
+2025/02/22 04:54:15.810 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Tower\Tower_TopReached_Perfect.ogg
+2025/02/22 04:54:15.810 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Dan\Dan_Fail.ogg
+2025/02/22 04:54:15.810 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Dan\Dan_Red_Pass.ogg
+2025/02/22 04:54:15.810 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Dan\Dan_Red_FullCombo.ogg
+2025/02/22 04:54:15.810 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Dan\Dan_Red_Perfect.ogg
+2025/02/22 04:54:15.810 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Dan\Dan_Gold_Pass.ogg
+2025/02/22 04:54:15.810 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Dan\Dan_Gold_FullCombo.ogg
+2025/02/22 04:54:15.810 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Dan\Dan_Gold_Perfect.ogg
+2025/02/22 04:54:15.816 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Clear.ogg
+2025/02/22 04:54:15.816 [WARNING] [i18n] File does not exist: C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Sounds\Failed.ogg
+2025/02/22 04:54:15.856 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\System\SimpleStyle (1080p)\Graphics\Screen option panels.png)
+2025/02/22 04:54:17.254 [INFO] 起動ステージを非活性化します。
+2025/02/22 04:54:17.255 [INFO]         起動ステージの非活性化を完了しました。
+2025/02/22 04:54:17.255 [INFO]     ----------------------
+2025/02/22 04:54:17.255 [INFO]     ■ タイトル
+2025/02/22 04:54:17.255 [INFO]     タイトルステージを活性化します。
+2025/02/22 04:54:17.290 [WARNING]         ファイルが存在しません。: Sounds\Entry.ogg
+2025/02/22 04:54:17.293 [INFO]         タイトルステージの活性化を完了しました。
+2025/02/22 04:54:17.316 [INFO]     ★曲データ検索スレッドを起動しました。
+2025/02/22 04:54:17.336 [INFO]     enum2) 曲データを検索します。
+2025/02/22 04:54:17.336 [INFO]     検索パス: C:\Users\kirei\Documents\GitHub\L-Taiko\build\Songs\
+2025/02/22 04:54:17.378 [INFO]     曲データの検索を完了しました。[20曲20スコア]
+2025/02/22 04:54:17.378 [INFO] enum5) 曲リストへの後処理を適用します。
+2025/02/22 04:54:17.382 [INFO]     曲リストへの後処理を完了しました。
+2025/02/22 04:54:17.382 [INFO] enum7) 曲データの情報を songlist.db へ出力します。
+2025/02/22 04:54:17.390 [INFO]     songlist.db への出力を完了しました。
+2025/02/22 04:54:17.390 [INFO] 曲探索所要時間: 00:00:00.0727533
+2025/02/22 04:54:34.930 [WARNING] ファイルが存在しません。: C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\Don-chan\Sounds\Title\Sanka.wav
 すきな曲や、むずかしさを
 えらんであそべるよ！: Cacheにヒットせず。(cachesize=1)
 演奏ゲーム: Cacheにヒットせず。(cachesize=1)
@@ -411,396 +411,42 @@ Open百科事典: Cacheにヒットせず。(cachesize=7)
 セッションを終了できるよ。
 また遊んでね！: Cacheにヒットせず。(cachesize=10)
 ゲーム終了: Cacheにヒットせず。(cachesize=10)
-2025/02/22 02:54:16.987 [INFO] タイトルステージを非活性化します。
-2025/02/22 02:54:16.989 [INFO]         タイトルステージの非活性化を完了しました。
-2025/02/22 02:54:16.989 [INFO]     ----------------------
-2025/02/22 02:54:16.989 [INFO]     ■ 選曲
-2025/02/22 02:54:16.990 [INFO]     選曲ステージを活性化します。
-2025/02/22 02:54:16.992 [WARNING]         ファイルが存在しません。: C:\Users\kirei\Documents\GitHub\L-Taiko\build\Global\Characters\Don-chan\Sounds\Menu\SongSelect.wav
-: Cacheにヒットせず。(cachesize=1)
-ポップスの曲をあつめたよ!: Cacheにヒットせず。(cachesize=2)
-: Cacheにヒット!! index=0
-0.5: Cacheにヒットせず。(cachesize=1)
-1.0: Cacheにヒットせず。(cachesize=2)
-1.1: Cacheにヒットせず。(cachesize=3)
-1.2: Cacheにヒットせず。(cachesize=4)
-1.3: Cacheにヒットせず。(cachesize=5)
-1.4: Cacheにヒットせず。(cachesize=6)
-1.5: Cacheにヒットせず。(cachesize=7)
-1.6: Cacheにヒットせず。(cachesize=8)
-1.7: Cacheにヒットせず。(cachesize=9)
-1.8: Cacheにヒットせず。(cachesize=10)
-1.9: Cacheにヒットせず。(cachesize=11)
-2.0: Cacheにヒットせず。(cachesize=12)
-2.5: Cacheにヒットせず。(cachesize=13)
-3.0: Cacheにヒットせず。(cachesize=14)
-3.5: Cacheにヒットせず。(cachesize=15)
-4.0: Cacheにヒットせず。(cachesize=16)
-0.5: Cacheにヒットせず。(cachesize=17)
-0.6: Cacheにヒットせず。(cachesize=18)
-0.7: Cacheにヒットせず。(cachesize=19)
-0.8: Cacheにヒットせず。(cachesize=20)
-0.9: Cacheにヒットせず。(cachesize=21)
-1.0: Cacheにヒット!! index=1
-1.1: Cacheにヒットせず。(cachesize=22)
-1.2: Cacheにヒットせず。(cachesize=23)
-1.3: Cacheにヒットせず。(cachesize=24)
-1.4: Cacheにヒットせず。(cachesize=25)
-1.5: Cacheにヒットせず。(cachesize=26)
-1.6: Cacheにヒットせず。(cachesize=27)
-1.7: Cacheにヒットせず。(cachesize=28)
-1.8: Cacheにヒットせず。(cachesize=29)
-1.9: Cacheにヒットせず。(cachesize=30)
-2.0: Cacheにヒットせず。(cachesize=31)
-しない: Cacheにヒットせず。(cachesize=32)
-する: Cacheにヒットせず。(cachesize=33)
-なし: Cacheにヒットせず。(cachesize=34)
-きまぐれ: Cacheにヒットせず。(cachesize=35)
-でたらめ: Cacheにヒットせず。(cachesize=36)
-しない: Cacheにヒット!! index=31
-ドロン: Cacheにヒットせず。(cachesize=37)
-ステルス: Cacheにヒットせず。(cachesize=38)
-しない: Cacheにヒット!! index=31
-厳密: Cacheにヒットせず。(cachesize=39)
-無難: Cacheにヒットせず。(cachesize=40)
-なし: Cacheにヒット!! index=33
-特訓モード: Cacheにヒットせず。(cachesize=41)
-太鼓: Cacheにヒットせず。(cachesize=42)
-コンガ: Cacheにヒットせず。(cachesize=43)
-しない: Cacheにヒット!! index=31
-雪崩: Cacheにヒットせず。(cachesize=44)
-掃海: Cacheにヒットせず。(cachesize=45)
-使用不可: Cacheにヒットせず。(cachesize=46)
-太鼓: Cacheにヒット!! index=41
-Electro: Cacheにヒットせず。(cachesize=47)
-Konga: Cacheにヒットせず。(cachesize=48)
-'08 Dual: Cacheにヒットせず。(cachesize=49)
-Break: Cacheにヒットせず。(cachesize=50)
-Gorgeous Taiko: Cacheにヒットせず。(cachesize=51)
-None: Cacheにヒットせず。(cachesize=52)
-はやさ: Cacheにヒットせず。(cachesize=53)
-ドロン: Cacheにヒット!! index=36
-あべこべ: Cacheにヒットせず。(cachesize=54)
-ランダム: Cacheにヒットせず。(cachesize=55)
-タイミング: Cacheにヒットせず。(cachesize=56)
-厳密: Cacheにヒットせず。(cachesize=57)
-ゲームタイプ: Cacheにヒットせず。(cachesize=58)
-ゲームモード: Cacheにヒットせず。(cachesize=59)
-オート: Cacheにヒットせず。(cachesize=60)
-再生速度: Cacheにヒットせず。(cachesize=61)
-音色: Cacheにヒットせず。(cachesize=62)
-余分なモード: Cacheにヒットせず。(cachesize=63)
-緩い: Cacheにヒットせず。(cachesize=64)
-易しい: Cacheにヒットせず。(cachesize=65)
-通常: Cacheにヒットせず。(cachesize=66)
-厳しい: Cacheにヒットせず。(cachesize=67)
-過酷: Cacheにヒットせず。(cachesize=68)
-2025/02/22 02:54:17.124 [INFO]         選曲ステージの活性化を完了しました。
-世界一決定戦の課題曲: Cacheにヒットせず。(cachesize=1)
-太鼓の達人20周年曲特集: Cacheにヒットせず。(cachesize=2)
-東方Project特集: Cacheにヒットせず。(cachesize=3)
-アイドルマスター特集: Cacheにヒットせず。(cachesize=4)
-ポップス: Cacheにヒットせず。(cachesize=5)
-アニメ: Cacheにヒットせず。(cachesize=6)
-ボーカロイド?曲: Cacheにヒットせず。(cachesize=7)
-キッズ: Cacheにヒットせず。(cachesize=8)
-バラエティ: Cacheにヒットせず。(cachesize=9)
-: Cacheにヒットせず。(cachesize=3)
-アイドルマスターの曲を集めたよ!: Cacheにヒットせず。(cachesize=4)
-: Cacheにヒット!! index=2
-最近あそんだ曲: Cacheにヒットせず。(cachesize=10)
-: Cacheにヒット!! index=0
-ポップスの曲をあつめたよ!: Cacheにヒット!! index=1
-: Cacheにヒット!! index=0
-「新世紀エヴァンゲリオン」より: Cacheにヒットせず。(cachesize=1)
-残酷な天使のテーゼ: Cacheにヒットせず。(cachesize=1)
-: Cacheにヒット!! index=0
-: Cacheにヒット!! index=0
-: Cacheにヒット!! index=0
-とじる: Cacheにヒットせず。(cachesize=2)
-ランダムにえらぶ: Cacheにヒットせず。(cachesize=3)
-2025/02/22 02:54:22.806 [INFO]     プレビューサウンドを生成しました。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Songs\01 ポップス\16 残酷な天使のテーゼ\残酷な天使のテーゼ.ogg)
-2025/02/22 02:54:22.812 [INFO]     CSound.AutomationLevel set: 99
-2025/02/22 02:54:22.812 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -0.08729610804900176. Group Level: 0. Summed Gain: -0.08729610804900176. Safe True Peak Gain: 0. Final Gain: -0.08729610804900176.
-2025/02/22 02:54:22.821 [INFO]     CSound.AutomationLevel set: 98
-2025/02/22 02:54:22.821 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -0.175478486150103. Group Level: 0. Summed Gain: -0.175478486150103. Safe True Peak Gain: 0. Final Gain: -0.175478486150103.
-2025/02/22 02:54:22.833 [INFO]     CSound.AutomationLevel set: 97
-2025/02/22 02:54:22.833 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -0.2645653146751032. Group Level: 0. Summed Gain: -0.2645653146751032. Safe True Peak Gain: 0. Final Gain: -0.2645653146751032.
-2025/02/22 02:54:22.841 [INFO]     CSound.AutomationLevel set: 96
-2025/02/22 02:54:22.842 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -0.35457533920863205. Group Level: 0. Summed Gain: -0.35457533920863205. Safe True Peak Gain: 0. Final Gain: -0.35457533920863205.
-2025/02/22 02:54:22.850 [INFO]     CSound.AutomationLevel set: 95
-2025/02/22 02:54:22.850 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -0.44552789422304506. Group Level: 0. Summed Gain: -0.44552789422304506. Safe True Peak Gain: 0. Final Gain: -0.44552789422304506.
-2025/02/22 02:54:22.862 [INFO]     CSound.AutomationLevel set: 94
-2025/02/22 02:54:22.862 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -0.5374429280060273. Group Level: 0. Summed Gain: -0.5374429280060273. Safe True Peak Gain: 0. Final Gain: -0.5374429280060273.
-2025/02/22 02:54:22.871 [INFO]     CSound.AutomationLevel set: 93
-2025/02/22 02:54:22.871 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -0.6303410289212973. Group Level: 0. Summed Gain: -0.6303410289212973. Safe True Peak Gain: 0. Final Gain: -0.6303410289212973.
-2025/02/22 02:54:22.883 [INFO]     CSound.AutomationLevel set: 92
-2025/02/22 02:54:22.883 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -0.7242434530888943. Group Level: 0. Summed Gain: -0.7242434530888943. Safe True Peak Gain: 0. Final Gain: -0.7242434530888943.
-2025/02/22 02:54:22.891 [INFO]     CSound.AutomationLevel set: 91
-2025/02/22 02:54:22.891 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -0.8191721535781277. Group Level: 0. Summed Gain: -0.8191721535781277. Safe True Peak Gain: 0. Final Gain: -0.8191721535781277.
-2025/02/22 02:54:22.900 [INFO]     CSound.AutomationLevel set: 90
-2025/02/22 02:54:22.900 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -0.9151498112135024. Group Level: 0. Summed Gain: -0.9151498112135024. Safe True Peak Gain: 0. Final Gain: -0.9151498112135024.
-2025/02/22 02:54:22.912 [INFO]     CSound.AutomationLevel set: 89
-2025/02/22 02:54:22.912 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -1.0121998671017443. Group Level: 0. Summed Gain: -1.0121998671017443. Safe True Peak Gain: 0. Final Gain: -1.0121998671017443.
-2025/02/22 02:54:22.920 [INFO]     CSound.AutomationLevel set: 88
-2025/02/22 02:54:22.920 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -1.1103465569966273. Group Level: 0. Summed Gain: -1.1103465569966273. Safe True Peak Gain: 0. Final Gain: -1.1103465569966273.
-2025/02/22 02:54:22.933 [INFO]     CSound.AutomationLevel set: 87
-2025/02/22 02:54:22.933 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -1.2096149476276294. Group Level: 0. Summed Gain: -1.2096149476276294. Safe True Peak Gain: 0. Final Gain: -1.2096149476276294.
-2025/02/22 02:54:22.942 [INFO]     CSound.AutomationLevel set: 86
-2025/02/22 02:54:22.942 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -1.3100309751286456. Group Level: 0. Summed Gain: -1.3100309751286456. Safe True Peak Gain: 0. Final Gain: -1.3100309751286456.
-2025/02/22 02:54:22.950 [INFO]     CSound.AutomationLevel set: 85
-2025/02/22 02:54:22.950 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -1.4116214857141456. Group Level: 0. Summed Gain: -1.4116214857141456. Safe True Peak Gain: 0. Final Gain: -1.4116214857141456.
-2025/02/22 02:54:22.962 [INFO]     CSound.AutomationLevel set: 84
-2025/02/22 02:54:22.962 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -1.5144142787623671. Group Level: 0. Summed Gain: -1.5144142787623671. Safe True Peak Gain: 0. Final Gain: -1.5144142787623671.
-2025/02/22 02:54:22.971 [INFO]     CSound.AutomationLevel set: 83
-2025/02/22 02:54:22.971 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -1.6184381524785225. Group Level: 0. Summed Gain: -1.6184381524785225. Safe True Peak Gain: 0. Final Gain: -1.6184381524785225.
-2025/02/22 02:54:22.983 [INFO]     CSound.AutomationLevel set: 82
-2025/02/22 02:54:22.983 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -1.7237229523256667. Group Level: 0. Summed Gain: -1.7237229523256667. Safe True Peak Gain: 0. Final Gain: -1.7237229523256667.
-2025/02/22 02:54:22.991 [INFO]     CSound.AutomationLevel set: 81
-2025/02/22 02:54:22.991 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -1.8302996224270043. Group Level: 0. Summed Gain: -1.8302996224270043. Safe True Peak Gain: 0. Final Gain: -1.8302996224270043.
-2025/02/22 02:54:23.000 [INFO]     CSound.AutomationLevel set: 80
-2025/02/22 02:54:23.000 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -1.938200260161128. Group Level: 0. Summed Gain: -1.938200260161128. Safe True Peak Gain: 0. Final Gain: -1.938200260161128.
-2025/02/22 02:54:23.013 [INFO]     CSound.AutomationLevel set: 79
-2025/02/22 02:54:23.013 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -2.047458174191171. Group Level: 0. Summed Gain: -2.047458174191171. Safe True Peak Gain: 0. Final Gain: -2.047458174191171.
-2025/02/22 02:54:23.021 [INFO]     CSound.AutomationLevel set: 78
-2025/02/22 02:54:23.021 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -2.1581079461903916. Group Level: 0. Summed Gain: -2.1581079461903916. Safe True Peak Gain: 0. Final Gain: -2.1581079461903916.
-2025/02/22 02:54:23.033 [INFO]     CSound.AutomationLevel set: 77
-2025/02/22 02:54:23.033 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -2.2701854965503623. Group Level: 0. Summed Gain: -2.2701854965503623. Safe True Peak Gain: 0. Final Gain: -2.2701854965503623.
-2025/02/22 02:54:23.042 [INFO]     CSound.AutomationLevel set: 76
-2025/02/22 02:54:23.042 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -2.383728154384173. Group Level: 0. Summed Gain: -2.383728154384173. Safe True Peak Gain: 0. Final Gain: -2.383728154384173.
-2025/02/22 02:54:23.050 [INFO]     CSound.AutomationLevel set: 75
-2025/02/22 02:54:23.050 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -2.498774732165999. Group Level: 0. Summed Gain: -2.498774732165999. Safe True Peak Gain: 0. Final Gain: -2.498774732165999.
-2025/02/22 02:54:23.062 [INFO]     CSound.AutomationLevel set: 74
-2025/02/22 02:54:23.062 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -2.615365605380476. Group Level: 0. Summed Gain: -2.615365605380476. Safe True Peak Gain: 0. Final Gain: -2.615365605380476.
-2025/02/22 02:54:23.071 [INFO]     CSound.AutomationLevel set: 73
-2025/02/22 02:54:23.071 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -2.733542797590882. Group Level: 0. Summed Gain: -2.733542797590882. Safe True Peak Gain: 0. Final Gain: -2.733542797590882.
-2025/02/22 02:54:23.083 [INFO]     CSound.AutomationLevel set: 72
-2025/02/22 02:54:23.083 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -2.8533500713746314. Group Level: 0. Summed Gain: -2.8533500713746314. Safe True Peak Gain: 0. Final Gain: -2.8533500713746314.
-2025/02/22 02:54:23.092 [INFO]     CSound.AutomationLevel set: 71
-2025/02/22 02:54:23.092 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -2.9748330256184947. Group Level: 0. Summed Gain: -2.9748330256184947. Safe True Peak Gain: 0. Final Gain: -2.9748330256184947.
-2025/02/22 02:54:23.100 [INFO]     CSound.AutomationLevel set: 70
-2025/02/22 02:54:23.100 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -3.0980391997148637. Group Level: 0. Summed Gain: -3.0980391997148637. Safe True Peak Gain: 0. Final Gain: -3.0980391997148637.
-2025/02/22 02:54:23.113 [INFO]     CSound.AutomationLevel set: 69
-2025/02/22 02:54:23.113 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -3.2230181852548947. Group Level: 0. Summed Gain: -3.2230181852548947. Safe True Peak Gain: 0. Final Gain: -3.2230181852548947.
-2025/02/22 02:54:23.121 [INFO]     CSound.AutomationLevel set: 68
-2025/02/22 02:54:23.121 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -3.349821745875273. Group Level: 0. Summed Gain: -3.349821745875273. Safe True Peak Gain: 0. Final Gain: -3.349821745875273.
-2025/02/22 02:54:23.133 [INFO]     CSound.AutomationLevel set: 67
-2025/02/22 02:54:23.133 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -3.478503945983471. Group Level: 0. Summed Gain: -3.478503945983471. Safe True Peak Gain: 0. Final Gain: -3.478503945983471.
-2025/02/22 02:54:23.141 [INFO]     CSound.AutomationLevel set: 66
-2025/02/22 02:54:23.142 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -3.6091212891626263. Group Level: 0. Summed Gain: -3.6091212891626263. Safe True Peak Gain: 0. Final Gain: -3.6091212891626263.
-2025/02/22 02:54:23.150 [INFO]     CSound.AutomationLevel set: 65
-2025/02/22 02:54:23.150 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -3.7417328671428884. Group Level: 0. Summed Gain: -3.7417328671428884. Safe True Peak Gain: 0. Final Gain: -3.7417328671428884.
-2025/02/22 02:54:23.162 [INFO]     CSound.AutomationLevel set: 64
-2025/02/22 02:54:23.163 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -3.8764005203222562. Group Level: 0. Summed Gain: -3.8764005203222562. Safe True Peak Gain: 0. Final Gain: -3.8764005203222562.
-2025/02/22 02:54:23.171 [INFO]     CSound.AutomationLevel set: 63
-2025/02/22 02:54:23.171 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -4.013189010928365. Group Level: 0. Summed Gain: -4.013189010928365. Safe True Peak Gain: 0. Final Gain: -4.013189010928365.
-2025/02/22 02:54:23.180 [INFO]     CSound.AutomationLevel set: 62
-2025/02/22 02:54:23.180 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -4.152166210034923. Group Level: 0. Summed Gain: -4.152166210034923. Safe True Peak Gain: 0. Final Gain: -4.152166210034923.
-2025/02/22 02:54:23.192 [INFO]     CSound.AutomationLevel set: 61
-2025/02/22 02:54:23.192 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -4.293403299784659. Group Level: 0. Summed Gain: -4.293403299784659. Safe True Peak Gain: 0. Final Gain: -4.293403299784659.
-2025/02/22 02:54:23.200 [INFO]     CSound.AutomationLevel set: 60
-2025/02/22 02:54:23.200 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -4.436974992327128. Group Level: 0. Summed Gain: -4.436974992327128. Safe True Peak Gain: 0. Final Gain: -4.436974992327128.
-2025/02/22 02:54:23.212 [INFO]     CSound.AutomationLevel set: 59
-2025/02/22 02:54:23.212 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -4.582959767157116. Group Level: 0. Summed Gain: -4.582959767157116. Safe True Peak Gain: 0. Final Gain: -4.582959767157116.
-2025/02/22 02:54:23.221 [INFO]     CSound.AutomationLevel set: 58
-2025/02/22 02:54:23.221 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -4.731440128741255. Group Level: 0. Summed Gain: -4.731440128741255. Safe True Peak Gain: 0. Final Gain: -4.731440128741255.
-2025/02/22 02:54:23.230 [INFO]     CSound.AutomationLevel set: 57
-2025/02/22 02:54:23.230 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -4.8825028865501725. Group Level: 0. Summed Gain: -4.8825028865501725. Safe True Peak Gain: 0. Final Gain: -4.8825028865501725.
-2025/02/22 02:54:23.242 [INFO]     CSound.AutomationLevel set: 56
-2025/02/22 02:54:23.242 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -5.036239459875991. Group Level: 0. Summed Gain: -5.036239459875991. Safe True Peak Gain: 0. Final Gain: -5.036239459875991.
-2025/02/22 02:54:23.250 [INFO]     CSound.AutomationLevel set: 55
-2025/02/22 02:54:23.250 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -5.192746210115122. Group Level: 0. Summed Gain: -5.192746210115122. Safe True Peak Gain: 0. Final Gain: -5.192746210115122.
-2025/02/22 02:54:23.263 [INFO]     CSound.AutomationLevel set: 54
-2025/02/22 02:54:23.263 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -5.352124803540629. Group Level: 0. Summed Gain: -5.352124803540629. Safe True Peak Gain: 0. Final Gain: -5.352124803540629.
-2025/02/22 02:54:23.271 [INFO]     CSound.AutomationLevel set: 53
-2025/02/22 02:54:23.271 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -5.514482607984219. Group Level: 0. Summed Gain: -5.514482607984219. Safe True Peak Gain: 0. Final Gain: -5.514482607984219.
-2025/02/22 02:54:23.279 [INFO]     CSound.AutomationLevel set: 52
-2025/02/22 02:54:23.279 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -5.679933127304016. Group Level: 0. Summed Gain: -5.679933127304016. Safe True Peak Gain: 0. Final Gain: -5.679933127304016.
-2025/02/22 02:54:23.292 [INFO]     CSound.AutomationLevel set: 51
-2025/02/22 02:54:23.292 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -5.848596478041273. Group Level: 0. Summed Gain: -5.848596478041273. Safe True Peak Gain: 0. Final Gain: -5.848596478041273.
-2025/02/22 02:54:23.300 [INFO]     CSound.AutomationLevel set: 50
-2025/02/22 02:54:23.300 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -6.020599913279624. Group Level: 0. Summed Gain: -6.020599913279624. Safe True Peak Gain: 0. Final Gain: -6.020599913279624.
-2025/02/22 02:54:23.312 [INFO]     CSound.AutomationLevel set: 49
-2025/02/22 02:54:23.313 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -6.196078399429727. Group Level: 0. Summed Gain: -6.196078399429727. Safe True Peak Gain: 0. Final Gain: -6.196078399429727.
-2025/02/22 02:54:23.321 [INFO]     CSound.AutomationLevel set: 48
-2025/02/22 02:54:23.321 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -6.375175252488256. Group Level: 0. Summed Gain: -6.375175252488256. Safe True Peak Gain: 0. Final Gain: -6.375175252488256.
-2025/02/22 02:54:23.333 [INFO]     CSound.AutomationLevel set: 47
-2025/02/22 02:54:23.333 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -6.558042841285651. Group Level: 0. Summed Gain: -6.558042841285651. Safe True Peak Gain: 0. Final Gain: -6.558042841285651.
-2025/02/22 02:54:23.341 [INFO]     CSound.AutomationLevel set: 46
-2025/02/22 02:54:23.341 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -6.744843366368518. Group Level: 0. Summed Gain: -6.744843366368518. Safe True Peak Gain: 0. Final Gain: -6.744843366368518.
-2025/02/22 02:54:23.350 [INFO]     CSound.AutomationLevel set: 45
-2025/02/22 02:54:23.350 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -6.935749724493126. Group Level: 0. Summed Gain: -6.935749724493126. Safe True Peak Gain: 0. Final Gain: -6.935749724493126.
-2025/02/22 02:54:23.362 [INFO]     CSound.AutomationLevel set: 44
-2025/02/22 02:54:23.362 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -7.1309464702762515. Group Level: 0. Summed Gain: -7.1309464702762515. Safe True Peak Gain: 0. Final Gain: -7.1309464702762515.
-2025/02/22 02:54:23.370 [INFO]     CSound.AutomationLevel set: 43
-2025/02/22 02:54:23.371 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -7.330630888408269. Group Level: 0. Summed Gain: -7.330630888408269. Safe True Peak Gain: 0. Final Gain: -7.330630888408269.
-2025/02/22 02:54:23.380 [INFO]     CSound.AutomationLevel set: 42
-2025/02/22 02:54:23.380 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -7.5350141920419915. Group Level: 0. Summed Gain: -7.5350141920419915. Safe True Peak Gain: 0. Final Gain: -7.5350141920419915.
-2025/02/22 02:54:23.392 [INFO]     CSound.AutomationLevel set: 41
-2025/02/22 02:54:23.392 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -7.744322865605291. Group Level: 0. Summed Gain: -7.744322865605291. Safe True Peak Gain: 0. Final Gain: -7.744322865605291.
-2025/02/22 02:54:23.400 [INFO]     CSound.AutomationLevel set: 40
-2025/02/22 02:54:23.400 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -7.958800173440752. Group Level: 0. Summed Gain: -7.958800173440752. Safe True Peak Gain: 0. Final Gain: -7.958800173440752.
-2025/02/22 02:54:23.412 [INFO]     CSound.AutomationLevel set: 39
-2025/02/22 02:54:23.412 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -8.178707859470016. Group Level: 0. Summed Gain: -8.178707859470016. Safe True Peak Gain: 0. Final Gain: -8.178707859470016.
-2025/02/22 02:54:23.421 [INFO]     CSound.AutomationLevel set: 38
-2025/02/22 02:54:23.421 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -8.404328067663796. Group Level: 0. Summed Gain: -8.404328067663796. Safe True Peak Gain: 0. Final Gain: -8.404328067663796.
-2025/02/22 02:54:23.433 [INFO]     CSound.AutomationLevel set: 37
-2025/02/22 02:54:23.433 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -8.6359655186601. Group Level: 0. Summed Gain: -8.6359655186601. Safe True Peak Gain: 0. Final Gain: -8.6359655186601.
-2025/02/22 02:54:23.442 [INFO]     CSound.AutomationLevel set: 36
-2025/02/22 02:54:23.442 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -8.873949984654255. Group Level: 0. Summed Gain: -8.873949984654255. Safe True Peak Gain: 0. Final Gain: -8.873949984654255.
-2025/02/22 02:54:23.450 [INFO]     CSound.AutomationLevel set: 35
-2025/02/22 02:54:23.450 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -9.118639112994488. Group Level: 0. Summed Gain: -9.118639112994488. Safe True Peak Gain: 0. Final Gain: -9.118639112994488.
-2025/02/22 02:54:23.462 [INFO]     CSound.AutomationLevel set: 34
-2025/02/22 02:54:23.462 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -9.370421659154896. Group Level: 0. Summed Gain: -9.370421659154896. Safe True Peak Gain: 0. Final Gain: -9.370421659154896.
-2025/02/22 02:54:23.471 [INFO]     CSound.AutomationLevel set: 33
-2025/02/22 02:54:23.471 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -9.62972120244225. Group Level: 0. Summed Gain: -9.62972120244225. Safe True Peak Gain: 0. Final Gain: -9.62972120244225.
-2025/02/22 02:54:23.483 [INFO]     CSound.AutomationLevel set: 32
-2025/02/22 02:54:23.483 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -9.89700043360188. Group Level: 0. Summed Gain: -9.89700043360188. Safe True Peak Gain: 0. Final Gain: -9.89700043360188.
-2025/02/22 02:54:23.492 [INFO]     CSound.AutomationLevel set: 31
-2025/02/22 02:54:23.492 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -10.172766123314547. Group Level: 0. Summed Gain: -10.172766123314547. Safe True Peak Gain: 0. Final Gain: -10.172766123314547.
-2025/02/22 02:54:23.500 [INFO]     CSound.AutomationLevel set: 30
-2025/02/22 02:54:23.500 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -10.457574905606752. Group Level: 0. Summed Gain: -10.457574905606752. Safe True Peak Gain: 0. Final Gain: -10.457574905606752.
-2025/02/22 02:54:23.513 [INFO]     CSound.AutomationLevel set: 29
-2025/02/22 02:54:23.513 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -10.752040042020878. Group Level: 0. Summed Gain: -10.752040042020878. Safe True Peak Gain: 0. Final Gain: -10.752040042020878.
-2025/02/22 02:54:23.521 [INFO]     CSound.AutomationLevel set: 28
-2025/02/22 02:54:23.521 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -11.056839373155615. Group Level: 0. Summed Gain: -11.056839373155615. Safe True Peak Gain: 0. Final Gain: -11.056839373155615.
-2025/02/22 02:54:23.533 [INFO]     CSound.AutomationLevel set: 27
-2025/02/22 02:54:23.533 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -11.372724716820253. Group Level: 0. Summed Gain: -11.372724716820253. Safe True Peak Gain: 0. Final Gain: -11.372724716820253.
-2025/02/22 02:54:23.541 [INFO]     CSound.AutomationLevel set: 26
-2025/02/22 02:54:23.541 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -11.70053304058364. Group Level: 0. Summed Gain: -11.70053304058364. Safe True Peak Gain: 0. Final Gain: -11.70053304058364.
-2025/02/22 02:54:23.550 [INFO]     CSound.AutomationLevel set: 25
-2025/02/22 02:54:23.550 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -12.041199826559248. Group Level: 0. Summed Gain: -12.041199826559248. Safe True Peak Gain: 0. Final Gain: -12.041199826559248.
-2025/02/22 02:54:23.563 [INFO]     CSound.AutomationLevel set: 24
-2025/02/22 02:54:23.563 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -12.39577516576788. Group Level: 0. Summed Gain: -12.39577516576788. Safe True Peak Gain: 0. Final Gain: -12.39577516576788.
-2025/02/22 02:54:23.571 [INFO]     CSound.AutomationLevel set: 23
-2025/02/22 02:54:23.571 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -12.76544327964814. Group Level: 0. Summed Gain: -12.76544327964814. Safe True Peak Gain: 0. Final Gain: -12.76544327964814.
-2025/02/22 02:54:23.583 [INFO]     CSound.AutomationLevel set: 22
-2025/02/22 02:54:23.583 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -13.151546383555875. Group Level: 0. Summed Gain: -13.151546383555875. Safe True Peak Gain: 0. Final Gain: -13.151546383555875.
-2025/02/22 02:54:23.592 [INFO]     CSound.AutomationLevel set: 21
-2025/02/22 02:54:23.592 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -13.555614105321613. Group Level: 0. Summed Gain: -13.555614105321613. Safe True Peak Gain: 0. Final Gain: -13.555614105321613.
-2025/02/22 02:54:23.600 [INFO]     CSound.AutomationLevel set: 20
-2025/02/22 02:54:23.600 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -13.979400086720375. Group Level: 0. Summed Gain: -13.979400086720375. Safe True Peak Gain: 0. Final Gain: -13.979400086720375.
-2025/02/22 02:54:23.613 [INFO]     CSound.AutomationLevel set: 19
-2025/02/22 02:54:23.613 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -14.424927980943421. Group Level: 0. Summed Gain: -14.424927980943421. Safe True Peak Gain: 0. Final Gain: -14.424927980943421.
-2025/02/22 02:54:23.621 [INFO]     CSound.AutomationLevel set: 18
-2025/02/22 02:54:23.621 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -14.89454989793388. Group Level: 0. Summed Gain: -14.89454989793388. Safe True Peak Gain: 0. Final Gain: -14.89454989793388.
-2025/02/22 02:54:23.633 [INFO]     CSound.AutomationLevel set: 17
-2025/02/22 02:54:23.633 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -15.39102157243452. Group Level: 0. Summed Gain: -15.39102157243452. Safe True Peak Gain: 0. Final Gain: -15.39102157243452.
-2025/02/22 02:54:23.642 [INFO]     CSound.AutomationLevel set: 16
-2025/02/22 02:54:23.642 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -15.917600346881503. Group Level: 0. Summed Gain: -15.917600346881503. Safe True Peak Gain: 0. Final Gain: -15.917600346881503.
-2025/02/22 02:54:23.650 [INFO]     CSound.AutomationLevel set: 15
-2025/02/22 02:54:23.650 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -16.478174818886377. Group Level: 0. Summed Gain: -16.478174818886377. Safe True Peak Gain: 0. Final Gain: -16.478174818886377.
-2025/02/22 02:54:23.662 [INFO]     CSound.AutomationLevel set: 14
-2025/02/22 02:54:23.662 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -17.07743928643524. Group Level: 0. Summed Gain: -17.07743928643524. Safe True Peak Gain: 0. Final Gain: -17.07743928643524.
-2025/02/22 02:54:23.671 [INFO]     CSound.AutomationLevel set: 13
-2025/02/22 02:54:23.671 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -17.721132953863265. Group Level: 0. Summed Gain: -17.721132953863265. Safe True Peak Gain: 0. Final Gain: -17.721132953863265.
-2025/02/22 02:54:23.679 [INFO]     CSound.AutomationLevel set: 12
-2025/02/22 02:54:23.680 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -18.416375079047505. Group Level: 0. Summed Gain: -18.416375079047505. Safe True Peak Gain: 0. Final Gain: -18.416375079047505.
-2025/02/22 02:54:23.692 [INFO]     CSound.AutomationLevel set: 11
-2025/02/22 02:54:23.692 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -19.1721462968355. Group Level: 0. Summed Gain: -19.1721462968355. Safe True Peak Gain: 0. Final Gain: -19.1721462968355.
-2025/02/22 02:54:23.700 [INFO]     CSound.AutomationLevel set: 10
-2025/02/22 02:54:23.700 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -20. Group Level: 0. Summed Gain: -20. Safe True Peak Gain: 0. Final Gain: -20.
-2025/02/22 02:54:23.712 [INFO]     CSound.AutomationLevel set: 9
-2025/02/22 02:54:23.712 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -20.915149811213503. Group Level: 0. Summed Gain: -20.915149811213503. Safe True Peak Gain: 0. Final Gain: -20.915149811213503.
-2025/02/22 02:54:23.721 [INFO]     CSound.AutomationLevel set: 8
-2025/02/22 02:54:23.721 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -21.93820026016113. Group Level: 0. Summed Gain: -21.93820026016113. Safe True Peak Gain: 0. Final Gain: -21.93820026016113.
-2025/02/22 02:54:23.733 [INFO]     CSound.AutomationLevel set: 7
-2025/02/22 02:54:23.733 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -23.09803919971486. Group Level: 0. Summed Gain: -23.09803919971486. Safe True Peak Gain: 0. Final Gain: -23.09803919971486.
-2025/02/22 02:54:23.742 [INFO]     CSound.AutomationLevel set: 6
-2025/02/22 02:54:23.742 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -24.436974992327126. Group Level: 0. Summed Gain: -24.436974992327126. Safe True Peak Gain: 0. Final Gain: -24.436974992327126.
-2025/02/22 02:54:23.750 [INFO]     CSound.AutomationLevel set: 5
-2025/02/22 02:54:23.750 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -26.020599913279625. Group Level: 0. Summed Gain: -26.020599913279625. Safe True Peak Gain: 0. Final Gain: -26.020599913279625.
-2025/02/22 02:54:23.762 [INFO]     CSound.AutomationLevel set: 4
-2025/02/22 02:54:23.763 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -27.95880017344075. Group Level: 0. Summed Gain: -27.95880017344075. Safe True Peak Gain: 0. Final Gain: -27.95880017344075.
-2025/02/22 02:54:23.771 [INFO]     CSound.AutomationLevel set: 3
-2025/02/22 02:54:23.771 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -30.45757490560675. Group Level: 0. Summed Gain: -30.45757490560675. Safe True Peak Gain: 0. Final Gain: -30.45757490560675.
-2025/02/22 02:54:23.783 [INFO]     CSound.AutomationLevel set: 2
-2025/02/22 02:54:23.783 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -33.979400086720375. Group Level: 0. Summed Gain: -33.979400086720375. Safe True Peak Gain: 0. Final Gain: -33.979400086720375.
-2025/02/22 02:54:23.791 [INFO]     CSound.AutomationLevel set: 1
-2025/02/22 02:54:23.791 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -40. Group Level: 0. Summed Gain: -40. Safe True Peak Gain: 0. Final Gain: -40.
-2025/02/22 02:54:23.800 [INFO]     CSound.AutomationLevel set: 0
-2025/02/22 02:54:23.800 [INFO]     CSound.SetVolume: Gain:0. Automation Level: -Infinity. Group Level: 0. Summed Gain: -Infinity. Safe True Peak Gain: 0. Final Gain: -Infinity.
-: Cacheにヒット!! index=0
-ポップスの曲をあつめたよ!: Cacheにヒット!! index=1
-: Cacheにヒット!! index=0
-2025/02/22 02:54:26.577 [INFO]     選曲ステージを非活性化します。
-2025/02/22 02:54:26.579 [INFO]         選曲ステージの非活性化を完了しました。
-2025/02/22 02:54:26.579 [INFO]     ----------------------
-2025/02/22 02:54:26.579 [INFO]     ■ タイトル
-2025/02/22 02:54:26.579 [INFO]     タイトルステージを活性化します。
-2025/02/22 02:54:26.610 [INFO]         タイトルステージの活性化を完了しました。
-!Me encanta Aragon!: Cacheにヒット!! index=0
-UltraRaid_: Cacheにヒット!! index=0
-すきな曲や、むずかしさを
-えらんであそべるよ！: Cacheにヒット!! index=0
-演奏ゲーム: Cacheにヒット!! index=0
-３曲連続して演奏しながら、
-お題の合格を目指そう！
-合格すると腕前が認定されるよ！: Cacheにヒット!! index=1
-段位道場: Cacheにヒット!! index=1
-有限のライフを持って、
-タワーの頂上を登って
-挑戦できるよ！: Cacheにヒット!! index=2
-太鼓タワー: Cacheにヒット!! index=2
-「AI」と勝つか負けるか
-ギリギリのバトルをたのしもう！: Cacheにヒット!! index=3
-AIバトル演奏: Cacheにヒット!! index=3
-キャラクタ、プチキャラ、
-ネームプレートの情報を変えるよ！: Cacheにヒット!! index=4
-太鼓部屋: Cacheにヒット!! index=4
-稼いだメダルを費やして、
-新しい曲やプチキャラを買えるよ！: Cacheにヒット!! index=5
-メダル商店: Cacheにヒット!! index=5
-OpenTaikoの機能または新しい
-コンテンツを追加方法
-について勉強できるよ！: Cacheにヒット!! index=6
-Open百科事典: Cacheにヒット!! index=6
-インターネットで新しい譜面
-またはコンテンツを
-ダウンロードできるよ！: Cacheにヒット!! index=7
-オンライン喫茶店: Cacheにヒット!! index=7
-ゲームスタイルや
-一般的な設定を設けられるよ！: Cacheにヒット!! index=8
-設定: Cacheにヒット!! index=8
-セッションを終了できるよ。
-また遊んでね！: Cacheにヒット!! index=9
-ゲーム終了: Cacheにヒット!! index=9
-2025/02/22 02:54:38.591 [INFO]     タイトルステージを非活性化します。
-2025/02/22 02:54:38.591 [INFO]         タイトルステージの非活性化を完了しました。
-2025/02/22 02:54:38.591 [INFO]     ----------------------
-2025/02/22 02:54:38.591 [INFO]     ■ 終了
-2025/02/22 02:54:38.592 [INFO]     終了ステージを活性化します。
-2025/02/22 02:54:38.631 [INFO]         終了ステージの活性化を完了しました。
-2025/02/22 02:54:38.633 [WARNING]     ファイルが存在しません。: Sounds\Game end.ogg
-2025/02/22 02:54:41.640 [INFO]     ----------------------
-2025/02/22 02:54:41.640 [INFO]     ■ アプリケーションの終了
-2025/02/22 02:54:41.640 [INFO]     曲検索actの終了処理を行います。
-2025/02/22 02:54:41.640 [INFO]         曲検索actの終了処理を完了しました。
-2025/02/22 02:54:41.640 [INFO]     現在のステージを終了します。
-2025/02/22 02:54:41.640 [INFO]         終了ステージを非活性化します。
-2025/02/22 02:54:41.641 [INFO]             終了ステージの非活性化を完了しました。
-2025/02/22 02:54:41.641 [INFO]         現在のステージの終了処理を完了しました。
-2025/02/22 02:54:41.641 [INFO]     曲リストの終了処理を行います。
-2025/02/22 02:54:41.649 [INFO]         曲リストの終了処理を完了しました。
-2025/02/22 02:54:41.671 [INFO]     CStage演奏画面共通 リソースの開放
-2025/02/22 02:54:41.671 [INFO]     スキンの終了処理を行います。
-2025/02/22 02:54:41.674 [INFO]         スキンの終了処理を完了しました。
-2025/02/22 02:54:41.674 [INFO]     DirectSound の終了処理を行います。
-2025/02/22 02:54:41.688 [INFO]         DirectSound の終了処理を完了しました。
-2025/02/22 02:54:41.688 [INFO]     パッドの終了処理を行います。
-2025/02/22 02:54:41.688 [INFO]         パッドの終了処理を完了しました。
-2025/02/22 02:54:41.688 [INFO]     DirectInput, MIDI入力の終了処理を行います。
-2025/02/22 02:54:41.690 [INFO]         DirectInput, MIDI入力の終了処理を完了しました。
-2025/02/22 02:54:41.690 [INFO]     文字コンソールの終了処理を行います。
-2025/02/22 02:54:41.690 [INFO]         文字コンソールの終了処理を完了しました。
-2025/02/22 02:54:41.690 [INFO]     FPSカウンタの終了処理を行います。
-2025/02/22 02:54:41.690 [INFO]         FPSカウンタの終了処理を完了しました。
-2025/02/22 02:54:41.690 [INFO]     タイマの終了処理を行います。
-2025/02/22 02:54:41.690 [INFO]         タイマの終了処理を完了しました。
-2025/02/22 02:54:41.690 [INFO]     Config.ini を出力します。
-2025/02/22 02:54:41.709 [INFO]         保存しました。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Config.ini)
-2025/02/22 02:54:41.709 [INFO]     Deinitializing loudness scanning, song gain control, and sound group level control...
-2025/02/22 02:54:41.709 [INFO]     Deinitialized loudness scanning, song gain control, and sound group level control.
-2025/02/22 02:54:41.709 [INFO]     アプリケーションの終了処理を完了しました。
+2025/02/22 04:54:40.703 [INFO] タイトルステージを非活性化します。
+2025/02/22 04:54:40.705 [INFO]         タイトルステージの非活性化を完了しました。
+2025/02/22 04:54:40.705 [INFO]     ----------------------
+2025/02/22 04:54:40.705 [INFO]     ■ 終了
+2025/02/22 04:54:40.705 [INFO]     終了ステージを活性化します。
+2025/02/22 04:54:40.742 [INFO]         終了ステージの活性化を完了しました。
+2025/02/22 04:54:40.744 [WARNING]     ファイルが存在しません。: Sounds\Game end.ogg
+2025/02/22 04:54:43.749 [INFO]     ----------------------
+2025/02/22 04:54:43.749 [INFO]     ■ アプリケーションの終了
+2025/02/22 04:54:43.749 [INFO]     曲検索actの終了処理を行います。
+2025/02/22 04:54:43.749 [INFO]         曲検索actの終了処理を完了しました。
+2025/02/22 04:54:43.749 [INFO]     現在のステージを終了します。
+2025/02/22 04:54:43.749 [INFO]         終了ステージを非活性化します。
+2025/02/22 04:54:43.749 [INFO]             終了ステージの非活性化を完了しました。
+2025/02/22 04:54:43.749 [INFO]         現在のステージの終了処理を完了しました。
+2025/02/22 04:54:43.750 [INFO]     曲リストの終了処理を行います。
+2025/02/22 04:54:43.757 [INFO]         曲リストの終了処理を完了しました。
+2025/02/22 04:54:43.779 [INFO]     CStage演奏画面共通 リソースの開放
+2025/02/22 04:54:43.779 [INFO]     スキンの終了処理を行います。
+2025/02/22 04:54:43.783 [INFO]         スキンの終了処理を完了しました。
+2025/02/22 04:54:43.783 [INFO]     DirectSound の終了処理を行います。
+2025/02/22 04:54:43.789 [INFO]         DirectSound の終了処理を完了しました。
+2025/02/22 04:54:43.789 [INFO]     パッドの終了処理を行います。
+2025/02/22 04:54:43.789 [INFO]         パッドの終了処理を完了しました。
+2025/02/22 04:54:43.789 [INFO]     DirectInput, MIDI入力の終了処理を行います。
+2025/02/22 04:54:43.791 [INFO]         DirectInput, MIDI入力の終了処理を完了しました。
+2025/02/22 04:54:43.791 [INFO]     文字コンソールの終了処理を行います。
+2025/02/22 04:54:43.791 [INFO]         文字コンソールの終了処理を完了しました。
+2025/02/22 04:54:43.791 [INFO]     FPSカウンタの終了処理を行います。
+2025/02/22 04:54:43.791 [INFO]         FPSカウンタの終了処理を完了しました。
+2025/02/22 04:54:43.791 [INFO]     タイマの終了処理を行います。
+2025/02/22 04:54:43.791 [INFO]         タイマの終了処理を完了しました。
+2025/02/22 04:54:43.791 [INFO]     Config.ini を出力します。
+2025/02/22 04:54:43.805 [INFO]         保存しました。(C:\Users\kirei\Documents\GitHub\L-Taiko\build\Config.ini)
+2025/02/22 04:54:43.805 [INFO]     Deinitializing loudness scanning, song gain control, and sound group level control...
+2025/02/22 04:54:43.805 [INFO]     Deinitialized loudness scanning, song gain control, and sound group level control.
+2025/02/22 04:54:43.805 [INFO]     アプリケーションの終了処理を完了しました。
 
 遊んでくれてありがとう！
