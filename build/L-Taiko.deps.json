@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "L-Taiko/1.0.0": {
+      "L-Taiko/0.0.0": {
         "dependencies": {
           "DiscordRichPresence": "1.143.0",
           "FDK": "1.0.0",
@@ -1253,7 +1253,7 @@
     }
   },
   "libraries": {
-    "L-Taiko/1.0.0": {
+    "L-Taiko/0.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -935,7 +935,7 @@ namespace TJAPlayer3
 #if DEBUG
 
 				//string strVersion = "KTT:J:A:I:2017072200";
-				string strCreator = "https://github.com/0AuBSQ/OpenTaiko";
+				string strCreator = "https://github.com/UltraRaid/L-Taiko";
 				AssemblyName asmApp = Assembly.GetExecutingAssembly().GetName();
 				TJAPlayer3.act文字コンソール.tPrint(4, 44, C文字コンソール.Eフォント種別.白, "DEBUG BUILD");
 				TJAPlayer3.act文字コンソール.tPrint(4, 4, C文字コンソール.Eフォント種別.白, asmApp.Name + " Ver." + TJAPlayer3.VERSION + " (" + strCreator + ")");
