@@ -5,3 +5,5 @@ L-Taikoは、「OpenNijiiro」をベースにしたニジイロ風シミュレ�
 UltraRaid
 mirai
 現在2人
+# Special Thanks
+Doon
