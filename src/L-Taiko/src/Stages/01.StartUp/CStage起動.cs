@@ -90,9 +90,9 @@ namespace TJAPlayer3
                     this.list進行文字列.Add("");
                     this.list進行文字列.Add("TJAPlayer3-Develop-ReWrite forked TJAPlayer3(@aioilight)");
 					this.list進行文字列.Add("OpenTaiko forked TJAPlayer3-Develop-ReWrite(@TouhouRenren)");
-                    this.list進行文字列.Add("OpenNijiiro forked OpenTaiko(@0AuBSQ)");
-                    this.list進行文字列.Add("OpenNijiiro edited by Azare4");
-                    this.list進行文字列.Add("L-Taiko by UltraRaid_ & Mirai");
+					this.list進行文字列.Add("OpenNijiiro forked OpenTaiko(@0auBSQ)");
+                    this.list進行文字列.Add("L-Taiko forked OpenNijiiro(@azarea09)");
+                    this.list進行文字列.Add("L-Taiko edited by UltraRaid_ & Mirai");
                     this.list進行文字列.Add("");
 
                     es = new CEnumSongs();

@@ -9,9 +9,13 @@
 --local debug_counter = 0
 
 local mob_x = 0
-local mob_y = 0
+local mob_front_y = 0
+local mob_back_y = 0
+local mob_back2_y = 0
+local mob_back3_y = 0
 local mob_height = 0
 local mob_counter = 0
+local mob_action_counter = 0
 local mob_in_counter = 0
 local mob_out_counter = 0
 
@@ -28,8 +32,12 @@ function mobOut()
 end
 
 function init()
-    func:AddGraph("Mob.png")
-    mob_height = func:GetTextureHeight("Mob.png")
+    func:AddGraph("Mob_Back_0.png")
+    func:AddGraph("Mob_Back_1.png")
+    func:AddGraph("Mob_Back2_0.png")
+    func:AddGraph("Mob_Back2_1.png")
+    func:AddGraph("Mob_Back2_2.png")
+    mob_height = func:GetTextureHeight("Mob_Back_0.png")
 end
 
 function update()
@@ -44,12 +52,6 @@ function update()
     --    end
     --    debug_counter = 0
     --end
-
-    mob_counter = mob_counter + (bpm[0] * deltaTime / 60.0)
-    if mob_counter > 1 then 
-        mob_counter = 0
-    end
-
     
 
 
@@ -69,9 +71,16 @@ function update()
         if mob_in_counter > 1 then
             mob_state = 3
             mob_counter = 0.5
+            mob_action_counter = 0
         end
         
-        mob_y = 1080 + (540 * (1.0 - math.sin(mob_in_counter * math.pi / 2)))
+        mobinValue = (1.0 - math.sin(mob_in_counter * math.pi / 2))
+        mob_front_y = 1080 + (540 * mobinValue)
+        mob_back_y = 1080 + (540 * mobinValue)
+        mob_back2_y = 1080 + (540 * mobinValue)
+        mob_back3_y = 1080 + (540 * mobinValue)
+
+
 
     elseif mob_state == 2 then
 
@@ -80,16 +89,44 @@ function update()
             mob_state = 0
         end
         
-        mob_y = 1080 + (540 * (1 - math.cos(mob_out_counter * math.pi)))
+        mobOutValue = (1 - math.cos(mob_out_counter * math.pi))
+        mob_front_y = 1080 + (540 * mobOutValue)
+        mob_back_y = 1080 + (540 * mobOutValue)
+        mob_back2_y = 1080 + (540 * mobOutValue)
+        mob_back3_y = 1080 + (540 * mobOutValue)
 
     elseif mob_state == 3 then
-        mob_y = 1080 + ((1.0 - math.sin(mob_counter * math.pi)) * 105)
+
+        mob_counter = mob_counter + (bpm[0] * deltaTime / 60.0)
+        if mob_counter > 1 then 
+            mob_counter = 0
+        end
+    
+        
+        mob_action_counter = mob_action_counter + (bpm[0] * deltaTime / 65.0)
+        if mob_action_counter > 1 then 
+            mob_action_counter = 0
+        end
+    
+    
+        mob_loop_value = (1.0 - math.sin(mob_counter * math.pi))
+        mob_front_y = 1080 + (mob_loop_value * 45)
+        mob_back_y = 1080 + (mob_loop_value * 90)
+        mob_back2_y = 1080 + (mob_loop_value * 92)
+        mob_back3_y = 1080 + (mob_loop_value * 92)
     end
 end
 
 function draw()
     if mob_state == 0 then
     else
-        func:DrawGraph(mob_x, mob_y - mob_height, "Mob.png")
+        if mob_action_counter > 0.25 and mob_action_counter < 0.5 then
+            func:DrawGraph(mob_x, mob_back_y - mob_height, "Mob_Back_1.png")
+            func:DrawGraph(mob_x, mob_back2_y - mob_height, "Mob_Back2_1.png")
+            func:DrawGraph(mob_x, mob_back3_y - mob_height, "Mob_Back2_2.png")
+        else
+            func:DrawGraph(mob_x, mob_back_y - mob_height, "Mob_Back_0.png")
+            func:DrawGraph(mob_x, mob_back2_y - mob_height, "Mob_Back2_0.png")
+        end
     end
 end
